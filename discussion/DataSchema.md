@@ -105,11 +105,25 @@ Column Name --- Survey Question --- Note (if any)
    6. 最后的 important 信息，从工作中的期待重要性
    7. 从 2017 年出现了对应的用户 ID，可以考虑以此角度来进行扩展角度分析用户的变化
    8. 工作选择的参考角度，薪资，工作属性等
+   9. 在 2017 年的数据中有 ImportantHiring 字段，可以用于分析招聘要求
+   10. 2017 年有一个 JobProfile 可以分析常用的找工作平台
 
 ## 数据处理
 
 1. occupation_group：最好将所有数据的这个 feature 整理到一起进行处理——2016年数据
+
 2. 对于 2016 年数据需要进行处理，例如在 2018 年中新工作期待的选项是数值型的，而 16年是文本描述型的
+
 3. 对所处国家信息可以通过货币信息进行差异判断，但是是作为分析角度还是作为数据处理方式需要进行探讨
+
 4. 2017 年和 2018 年的工作状态字段存在差异
+
 5. 18 年的设备信息为 ErgonomicDevices 需要和 17年进行调整
+
+6. 17年的ProgramHobby 数据是否有必要和2018年的Hobby 作为一起进行合并
+
+7. 17 年的hoursperweek 是否需要和18年 hourscomputer 时间进行合并
+
+8. 2018 年数据 LanguageDesireNextYear， LanguageWorkedWith 与 2017年数据  HaveWorkedLanguage 和WantWorkFramework
+
+9. 2018 年  PlatformDesireNextYear 和 PlatformWorkedWith 与2017年数据是 have 和want
