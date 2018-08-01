@@ -111,19 +111,16 @@ Column Name --- Survey Question --- Note (if any)
 ## 数据处理
 
 1. occupation_group：最好将所有数据的这个 feature 整理到一起进行处理——2016年数据
-
 2. 对于 2016 年数据需要进行处理，例如在 2018 年中新工作期待的选项是数值型的，而 16年是文本描述型的
-
 3. 对所处国家信息可以通过货币信息进行差异判断，但是是作为分析角度还是作为数据处理方式需要进行探讨
-
 4. 2017 年和 2018 年的工作状态字段存在差异
-
 5. 18 年的设备信息为 ErgonomicDevices 需要和 17年进行调整
-
 6. 17年的ProgramHobby 数据是否有必要和2018年的Hobby 作为一起进行合并
-
 7. 17 年的hoursperweek 是否需要和18年 hourscomputer 时间进行合并
-
 8. 2018 年数据 LanguageDesireNextYear， LanguageWorkedWith 与 2017年数据  HaveWorkedLanguage 和WantWorkFramework
-
 9. 2018 年  PlatformDesireNextYear 和 PlatformWorkedWith 与2017年数据是 have 和want
+10. QuestionsConfusing 和 QuestionsInteresting 是 2017 年调查最后一个问题，针对调查反馈
+11. 2017 年的 Race 和 2018 年的 RaceEthnicity 数据都是针对人种的，可以合并
+12. 2017 年和 2018 年的 Respondent 可能是无信息意义数据，确认是否需要删除
+13. 抛弃针对 stackoverflow 的数据，例如对其态度之类？对后续分析不是主要关注点
+14. 对调查数据的评价可以丢弃，这也不是分析出发点
