@@ -1,0 +1,157 @@
+Column,translation,Question,year
+Respondent,对应的随机序列号,Respondent ID number,2017
+Professional,专业性描述,Which of the following best describes you?,2017
+ProgramHobby,编程作为爱好,Do you program as a hobby or contribute to open source projects?,2017
+Country,国家,In which country do you currently live?,2017
+University,当前是否为学生,"Are you currently enrolled in a formal, degree-granting college or university program?",2017
+EmploymentStatus,工作状态,Which of the following best describes your current employment status?,2017
+FormalEducation,完成的最高学位,Which of the following best describes the highest level of formal education that you've completed?,2017
+MajorUndergrad,本科专业,Which of the following best describes your main field of study (aka 'major') in college or university/for your undergraduate studies?,2017
+HomeRemote,远程和在工作频率,How often do you work from home or remotely?,2017
+CompanySize,公司大小,"In terms of the number of employees, how large is the company or organization you work for?",2017
+CompanyType,公司类型,Which of the following best describes the type of company or organization you work for?,2017
+YearsProgram,第一次学习编程是多久前,How long has it been since you first learned how to program?,2017
+YearsCodedJob,以编程为工作多少年了,For how many years have you coded as part of your job?,2017
+YearsCodedJobPast,编程应用在工作中时长,For how many years did you code as part of your job?,2017
+DeveloperType,开发类型-2017年数据,Which of the following best describe you?,2017
+WebDeveloperType,网页开发者最佳描述,Which of the following best describes you as a Web developer?,2017
+MobileDeveloperType,移动开发类型,For which of the following platforms do you develop mobile applications?,2017
+NonDeveloperType,作为非开发者的工作,Which of the following describe you?,2017
+CareerSatisfaction,职业满意度,Career satisfaction rating,2017
+JobSatisfaction,工作满意度,Job satisfaction rating,2017
+ExCoderReturn,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? If money weren't an issue, I would take a coding job again",2017
+ExCoderNotForMe,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? Working as a developer just wasn't for me",2017
+ExCoderBalance,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? I have better work-life balance now than I did as a developer",2017
+ExCoder10Years,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? My career is going the way I thought it would 10 years ago",2017
+ExCoderBelonged,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? When I was a developer, I didn't feel like I belonged with my colleagues",2017
+ExCoderSkills,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? I don't think my coding skills are up to date",2017
+ExCoderWillNotCode,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? I probably won't code for a living ever again",2017
+ExCoderActive,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? I'm still active in the developer community",2017
+PronounceGIF,GIF 发音,"How do you pronounce ""GIF""?",2017
+ProblemSolving,解决问题态度,I love solving problems,2017
+BuildingThings,工作内容-对创造性工作态度,Building things is very rewarding,2017
+LearningNewTech,学习新技术,Learning new technologies is fun,2017
+BoringDetails,工作内容-对工作细节满意度,I tend to get bored by implementation details,2017
+JobSecurity,,Job security is important to me,2017
+DiversityImportant,多样工作环境重要性,Diversity in the workplace is important,2017
+AnnoyingUI,软件 UI 重要性,It annoys me when software has a poor UI,2017
+FriendsDevelopers,朋友是否为开发者,"Most of my friends are developers, engineers, or scientists",2017
+RightWrongWay,描述性选项同意情况,There's a right and a wrong way to do everything,2017
+UnderstandComputers,计算机有太多我搞不明白的,"Honestly, there's a lot about computers that I just don't understand",2017
+SeriousWork,描述性选项同意情况,I take my work very seriously,2017
+InvestTimeTools,对使用的工具投入大量时间,I invest a lot of time into the tools I use,2017
+WorkPayCare,只看重报酬,"I don't really care what I work on, so long as I'm paid well",2017
+KinshipDevelopers,和其他开发者之间关系,I feel a sense of kinship to other developers,2017
+ChallengeMyself,工作内容-对创造性工作态度,I like to challenge myself,2017
+CompetePeers,同事竞争,I think of myself as competing with my peers,2017
+ChangeWorld,工作内容-工作态度,I want to change the world,2017
+JobSeekingStatus,当前找工作意愿,Which of the following best describes your current job-seeking status?,2017
+HoursPerWeek,每周工作时间,"During a typical week, approximately how many hours do you spend on activities related to finding new job opportunities?Please adjust the slider to the appropriate number of hours. The box to the right will indicate the number of hours you have chosen.",2017
+LastNewJob,最近一次新工作时间,When was the last time that you took a job with a new employer?,2017
+AssessJobIndustry,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The industry that I'd be working in",2017
+AssessJobRole,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The specific role or job title I'd be applying for",2017
+AssessJobExp,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The experience level called for in the job description",2017
+AssessJobDept,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The specific department or team I'd be working on",2017
+AssessJobTech,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The languages, frameworks, and other technologies I'd be working with",2017
+AssessJobProjects,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? How projects are managed at the company or organization",2017
+AssessJobCompensation,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The compensation and benefits offered",2017
+AssessJobOffice,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The office environment I'd be working in",2017
+AssessJobCommute,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The amount of time I'd have to spend commuting",2017
+AssessJobRemote,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The opportunity to work from home/remotely",2017
+AssessJobLeaders,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The reputations of the company's senior leaders",2017
+AssessJobProfDevel,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? Opportunities for professional development",2017
+AssessJobDiversity,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The diversity of the company or organization",2017
+AssessJobProduct,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? How widely used or impactful the product or service I'd be working on is",2017
+AssessJobFinances,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The financial performance or funding status of the company or organization",2017
+ImportantBenefits,薪资外的补贴重要点,"When it comes to compensation and benefits, other than base salary, which of the following are most important to you?",2017
+ClickyKeys,工作环境-键盘敲击声,"If two developers are sharing an office, is it OK for one of them to get a mechanical keyboard with loud ""clicky"" keys?",2017
+JobProfile,工作状态和建立等保留在哪个网站上,"On which of the following sites do you maintain a profile, CV, or resumé?",2017
+ResumePrompted,改简历的原因,"Think back to the last time you updated your resumé, CV, or an online profile on a job site. What prompted you to do so?",2017
+LearnedHiring,了解新工作,Think back to when you first applied to work for your current employer. Which of the following best describes how you learned that they were hiring for that particular job?,2017
+ImportantHiringAlgorithms,招聘算法和数据结构要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Knowledge of algorithms and data structures",2017
+ImportantHiringTechExp,招聘中对库架构等工具的经验要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Experience with specific tools (libraries, frameworks, etc.) used by the employer",2017
+ImportantHiringCommunication,招聘中交流要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Communication skills",2017
+ImportantHiringOpenSource,招聘中开源项目中的贡献要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Contributions to open source projects",2017
+ImportantHiringPMExp,招聘中项目管理工具和经验要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Experience with specific project management tools & techniques",2017
+ImportantHiringCompanies,招聘中合作要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Previous companies worked at",2017
+ImportantHiringTitles,招聘中对前工作职位要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Previous job titles held",2017
+ImportantHiringEducation,招聘中教育背景要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Educational credentials (e.g. schools attended, specific field of study, grades earned)",2017
+ImportantHiringRep,招聘中要求SOF中的贡献,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Stack Overflow reputation",2017
+ImportantHiringGettingThingsDone,招聘中GTD记录要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Track record of getting things done",2017
+Currency,使用货币,"Which currency do you use day-to-day? If you're a globe-trotting digital nomad and the answer is “it's complicated,” please pick the one you're most comfortable estimating in.",2017
+Overpaid,对自己在市场的评价,"Compared to your estimate of your own market value, do you think you are…?",2017
+TabsSpaces,缩进使用方式,Tabs or spaces?,2017
+EducationImportant,教育重要性,"Overall, how important has your formal schooling and education been to your career success?",2017
+EducationTypes,学习教育方式,"Outside of your formal schooling and education, which of the following have you done?",2017
+SelfTaughtTypes,教授信息方式,"You indicated that you had taught yourself a programming technology without taking a course. What resources did you use to do that? If you've done it more than once, please think about the most recent time you've done so.",2017
+TimeAfterBootcamp,bootcamp毕业到工作用多久,You indicated previously that you went through a developer “bootcamp.” How long did it take you to get a full-time job as a developer after graduating?,2017
+CousinEducation,后辈学习建议,"Let's pretend you have a distant cousin. They are 24 years old, have a college degree in a field not related to computer programming, and have been working a non-coding job for the last two years. They want your advice on how to switch to a career as a software developer. Which of the following options would you most strongly recommend to your cousin?
+Let's pretend you have a distant cousin named Robert. He is 24 years old, has a college degree in a field not related to computer programming, and has been working a non-coding job for the last two years. He wants your advice on how to switch to a career as a software developer. Which of the following options would you most strongly recommend to Robert?
+Let's pretend you have a distant cousin named Alice. She is 24 years old, has a college degree in a field not related to computer programming, and has been working a non-coding job for the last two years. She wants your advice on how to switch to a career as a software developer. Which of the following options would you most strongly recommend to Alice?",2017
+WorkStart,选择每天开始上班的时间,Suppose you could choose your own working hours for an 8-hour day. What time would you start work for the day? Please adjust the slider to the hour nearest your ideal start time. The box next to the slider will display your selection using a 24-hour clock,2017
+HaveWorkedLanguage,正在使用语言,"Which of the following languages have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+WantWorkLanguage,期待使用其他语言,"Which of the following languages have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+HaveWorkedFramework,正在使用的框架,"Which of the following libraries, frameworks, and tools have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+WantWorkFramework,期待使用其他架构,"Which of the following libraries, frameworks, and tools have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+HaveWorkedDatabase,正在使用的数据库,"Which of the following database technologies have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+WantWorkDatabase,理想工作距离,"Which of the following database technologies have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+HaveWorkedPlatform,正在使用系统平台,"Which of the following platforms have you done extensive development work for over the past year, and which do you want to work on over the next year?",2017
+WantWorkPlatform,期待使用公族平台,"Which of the following platforms have you done extensive development work for over the past year, and which do you want to work on over the next year?",2017
+IDE,开发环境,Which development environment(s) do you use regularly?,2017
+AuditoryEnvironment,工作环境,"Suppose you're about to start a few hours of coding and have complete control over your auditory environment (music, background noise, etc.). What would you do?",2017
+Methodology,开发过程中使用了方法,Which of the following methodologies do you have experience working in?,2017
+VersionControl,版本控制使用,"What version control system do you use? If you use several, please choose the one you use most often.",2017
+CheckInCode,代码提交频率,"Over the last year, how often have you checked-in or committed code?",2017
+ShipIt,代码优化执行时间态度性问题,It's better to ship now and optimize later,2017
+OtherPeoplesCode,维护他人代码的态度—受折磨,Maintaining other people's code is a form of torture,2017
+ProjectManagement,对项目管理的作用态度,Most project management techniques are useless,2017
+EnjoyDebugging,debug 态度,I enjoy debugging code,2017
+InTheZone,编程深度状态,I often get “into the zone” when I'm coding,2017
+DifficultCommunication,交流困难,I have difficulty communicating my ideas to my peers,2017
+CollaborateRemote,远程协作,It's harder to collaborate with remote peers than those on site,2017
+MetricAssess,,"Congratulations! The bosses at your new employer, E Corp, are allowing you to choose which metrics will be used to assess your individual performance in your role as a senior developer. Which metrics do you suggest to the E bosses?",2017
+EquipmentSatisfiedMonitors,设备满意度,"Thinking about your main coding workstation, how satisfied are you with each of the following? Monitors/screens (number of, size, resolution)",2017
+EquipmentSatisfiedCPU,设备满意度,"Thinking about your main coding workstation, how satisfied are you with each of the following? Processing power (CPU and/or GPU)",2017
+EquipmentSatisfiedRAM,设备满意度,"Thinking about your main coding workstation, how satisfied are you with each of the following? Amount of RAM",2017
+EquipmentSatisfiedStorage,设备满意度,"Thinking about your main coding workstation, how satisfied are you with each of the following? Storage capacity",2017
+EquipmentSatisfiedRW,设备满意度,"Thinking about your main coding workstation, how satisfied are you with each of the following? Storage read/write speed",2017
+InfluenceInternet,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Internet bandwidth,2017
+InfluenceWorkstation,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Your personal workstation hardware,2017
+InfluenceHardware,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Personal workstation hardware for others in the company,2017
+InfluenceServers,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Servers,2017
+InfluenceTechStack,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Main technical stack of the company,2017
+InfluenceDeptTech,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Technical stack used in your department,2017
+InfluenceVizTools,公司购买决策,"How much influence do you have on purchasing decisions within your organization for each of the following? Data analysis and visualization tools (e.g. Tableau, Looker)",2017
+InfluenceDatabase,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Database systems or solutions,2017
+InfluenceCloud,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Cloud or serverless back-end solutions,2017
+InfluenceConsultants,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Consultants,2017
+InfluenceRecruitment,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Recruitment tools & platforms,2017
+InfluenceCommunication,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Communication & collaboration tools,2017
+StackOverflowDescribes,,Which of the following best describes you?,2017
+StackOverflowSatisfaction,满意度,Stack Overflow satisfaction,2017
+StackOverflowDevices,连接 SO 设备,Which of the following devices have you used to connect to Stack Overflow over the last three months?,2017
+StackOverflowFoundAnswer,找到解决编码问题的答案,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Found an answer that solved my coding problem",2017
+StackOverflowCopiedCode,复制代码,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Copied a code example and pasted it into my codebase",2017
+StackOverflowJobListing,看过我感兴趣的职位列表,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Seen a job listing I was interested in",2017
+StackOverflowCompanyPage,访问公司页面研究潜在的雇主,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Researched a potential employer by visiting its company page",2017
+StackOverflowJobSearch,寻找工作,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Searched for jobs",2017
+StackOverflowNewQuestion,问问题,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Asked a new question",2017
+StackOverflowAnswer,最近三月的回复频繁度,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Written a new answer to someone else's question",2017
+StackOverflowMetaChat,参与SO的讨论,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Participated in community discussions on meta or in chat",2017
+StackOverflowAdsRelevant,广告态度,The ads on Stack Overflow are relevant to me,2017
+StackOverflowAdsDistracting,广告态度,The ads on Stack Overflow are distracting,2017
+StackOverflowModeration,SO审核不公平,The moderation on Stack Overflow is unfair,2017
+StackOverflowCommunity,SO 认同感,I feel like a member of the Stack Overflow community,2017
+StackOverflowHelpful,SO对我代码帮助很大,The answers and code examples I get on Stack Overflow are helpful,2017
+StackOverflowBetter,SO 对网络贡献,Stack Overflow makes the Internet a better place,2017
+StackOverflowWhatDo,没有SO将不知所措,I don't know what I'd do without Stack Overflow,2017
+StackOverflowMakeMoney,SO只为钱,The people who run Stack Overflow are just in it for the money,2017
+Gender,性别,Which of the following do you currently identify as?,2017
+HighestEducationParents,父母收到的最高教育程度,What is the highest level of education received by either of your parents?,2017
+Race,人种描述,Which of the following do you identify as?,2017
+SurveyLong,调查太长,This survey was too long,2017
+QuestionsInteresting,调查描述,The questions were interesting,2017
+QuestionsConfusing,调查描述,The questions were confusing,2017
+InterestedAnswers,对其他开发者学习的回答感兴趣,I'm interested in learning how other developers answered,2017
+Salary,薪资,"What is your current annual base salary, before taxes, and excluding bonuses, grants, or other compensation?",2017
+ExpectedSalary,毕业后期望年薪,"You said before that you are currently learning how to program. When you have completed your studies, what annual salary do you expect to earn in your first job after graduation?",2017
