@@ -78,7 +78,7 @@ Column Name --- Survey Question --- Note (if any)
 
 
 
-## 2. 2017 年和 2018 年数据
+## 2. 2017 年数据
 
 #### 开发者自我描述信息
 
@@ -96,13 +96,13 @@ Column Name --- Survey Question --- Note (if any)
 
 以下是针对上面的信息涉及到的其他问题
 
-* Professional 职业水平
-* YearsCodedJob 和 YearsCodedJobPast 开发时长
-* DeveloperType 职业开发者的开发类型，是多选项
+* **Professional** 职业水平
+* **YearsCodedJob** 和 **YearsCodedJobPast** 开发时长——结合 2018 年 yearscoding 和 yearscodingprof
+* **DeveloperType** 职业开发者的开发类型，是多选项
   * WebDeveloperType 网页开发者最佳描述  职业类型是网页开发的
   * MobileDeveloperType 移动开发平台类型 职业类型是移动开发
 * NonDeveloperType 非开发者职业
-* JobSatisfaction 工作满意度，只能是 software developer
+* **JobSatisfaction** 工作满意度，只能是 software developer
 * 下面的值只能是I used to code for a living, but I no longer do 的开发者，以下 **应当作为换行业分析的角度**
 * ExCoderReturn 返回开发工作，
 * ExCoderNotForMe 表示Working as a developer just wasn’t for me 
@@ -113,34 +113,34 @@ Column Name --- Survey Question --- Note (if any)
 * ExCoderWillNotCode 不会再继续编程 I probably won’t code for a living ever again 
 * ExCoderActive 还是活跃的社区开发者 I’m still active in the developer community 
 * 
-* LastNewJob 最近更换工作，条件是前三类开发者
-* ResumePrompted 最近更新简历原因
-* Salary 年薪，条件是前三类开发者
+* **LastNewJob** 最近更换工作，条件是前三类开发者
+* **ResumePrompted** 最近更新简历原因——2018 年数据是 updatecv
+* **Salary** 年薪，条件是前三类开发者
 * Overpaid 对自己在市场的评价 从市场方向来看待个人薪资情况
 * ExpectedSalary 期待年薪，这个的条件是学生
 * EducationImportant 教育重要性，这个是职业开发者对教育的态度，只能是职业开发者
 * **以下不能是前开发者**
-* HaveWorkedLanguage 和 WantWorkLanguage 正在使用和期待使用语言 不能是前开发者
-* HaveWorkedFramework 和 WantWorkFramework 正在使用和期待使用的库
-* HaveWorkedDatabase 和 WantWorkDatabase 正在使用和期待使用的数据库
-* HaveWorkedPlatform 和 WantWorkPlatform 正在使用和期待使用的平台
+* **HaveWorkedLanguage** 和 **WantWorkLanguage** 正在使用和期待使用语言 不能是前开发者
+* **HaveWorkedFramework** 和 **WantWorkFramework** 正在使用和期待使用的库
+* **HaveWorkedDatabase** 和 **WantWorkDatabase** 正在使用和期待使用的数据库
+* **HaveWorkedPlatform** 和 **WantWorkPlatform** 正在使用和期待使用的平台——这里在 2018 年中是独立的开发系统
 * 
-* Methodology 曾经使用的编程方法 不能是学生
+* **Methodology** 曾经使用的编程方法 不能是学生
 * VersionControl 使用的版本控制工具，不能是前开发者
 * **以下是设备满意度，从实际情况来看需要思考从怎么使用这类数据**
 * EquipmentSatisfiedMonitors 、EquipmentSatisfiedCPU、EquipmentSatisfiedRAM、EquipmentSatisfiedStorage、EquipmentSatisfiedRW
 
-1. ProgramHobby 爱好编程和开源项目，**对分析不起作用**
+1. **ProgramHobby** 爱好编程和开源项目，**对分析不起作用**——需要分析一下和 2018 年的 Hobby 之间的数据区别
 
-2. Country 居住国家
+2. **Country** 居住国家
 
 3. University 参加学校项目，**对分析不起作用**
 
-4. EmploymentStatus 工作状态，用于分析开发者工作类型，全职、兼职
+4. **EmploymentStatus** 工作状态，用于分析开发者工作类型，全职、兼职。
 
    1. HomeRemote 在家或者远程工作频率，这个需要是工作状态是处于有雇佣状态
-   2. CompanySize 公司人员，这个需要是工作状态是处于有雇佣状态
-   3. CompanyType 公司类型，这个需要是工作状态是处于有雇佣状态
+   2. **CompanySize** 公司人员，这个需要是工作状态是处于有雇佣状态
+   3. **CompanyType** 公司类型，这个需要是工作状态是处于有雇佣状态——2018 年没有该数据
    4. LearnedHiring 当前工作 信息来源，这个需要是工作状态是处于有雇佣状态
    5. InfluenceInternet
       InfluenceWorkstation
@@ -155,19 +155,19 @@ Column Name --- Survey Question --- Note (if any)
       InfluenceRecruitment
       InfluenceCommunication  影响公司的购买决策方面的内容How much influence do you have on purchasing decisions within your organization for each of the following  
 
-5. FormalEducation 最高学历，需要进行分析吗？
+5. **FormalEducation** 最高学历，需要进行分析吗？
 
-6. MajorUndergrad 重要专业，最高学历必须在 Secondary school 之上
+6. **MajorUndergrad** 重要专业，最高学历必须在 Secondary school 之上
 
 7. YearsProgram 包括学习阶段，编程年限，这个可以用于分析整体编程年限分布
 
 8.  YearsCodedJob 和YearsCodedJobPast ，这两个问题没有弄明白For how many years [have you coded]/[did you code] for a living? 
 
-9. Gender 性别
+9. **Gender** 性别
 
 10. HighestEducationParents 父母收到的最高教育程度 
 
-11. Race 人种描述 
+11. **Race** 人种描述 
 
 12. 
 
@@ -177,27 +177,27 @@ Column Name --- Survey Question --- Note (if any)
 
 这些都是是否同意的问题，看以下内容是否可以分析出开发者对工作、同事等的态度
 
-1. ProblemSolving 解决问题态度 
-2. BuildingThings 创建作为奖励Building things is very rewarding 
-3. LearningNewTech 
-4. BoringDetails 
-5. JobSecurity 
-6. DiversityImportant 
-7. AnnoyingUI 
-8. FriendsDevelopers 
-9. RightWrongWay 
-10. UnderstandComputers 
-11. SeriousWork 
-12. InvestTimeTools 
-13. WorkPayCare 
-14. KinshipDevelopers 
-15. ChallengeMyself 
-16. CompetePeers 
-17. ChangeWorld 
-18. **以上是一种态度**
-19. JobSeekingStatus 当前找工作意愿 
+1. **ProblemSolving 解决问题态度** 
+2. **BuildingThings 创建作为奖励Building things is very rewarding** 
+3. **LearningNewTech** 
+4. **BoringDetails** 
+5. **JobSecurity** 
+6. **DiversityImportant** 
+7. **AnnoyingUI** 
+8. **FriendsDevelopers** 
+9. **RightWrongWay** 
+10. **UnderstandComputers** 
+11. **SeriousWork** 
+12. **InvestTimeTools** 
+13. **WorkPayCare** 
+14. **KinshipDevelopers** 
+15. **ChallengeMyself** 
+16. **CompetePeers** 
+17. **ChangeWorld** 
+18. **以上是一种态度**——对于以上的内容需要判断一下和 2018 年区别
+19. **JobSeekingStatus** 当前找工作意愿 
     1. **下面是当前有意愿找工作的人员的看重选项，这里是否可以分析出找工作的依据**
-    2. AssessJobIndustry、AssessJobRole、AssessJobExp、AssessJobDept、AssessJobTech、AssessJobProjects、AssessJobCompensation、AssessJobOffice、AssessJobCommute、AssessJobRemote、AssessJobLeaders、AssessJobProfDevel、AssessJobDiversity、AssessJobProduct、AssessJobFinances
+    2. **AssessJobIndustry**、**AssessJobRole**、**AssessJobExp**、**AssessJobDept**、**AssessJobTech**、**AssessJobProjects**、**AssessJobCompensation**、**AssessJobOffice**、**AssessJobCommute**、**AssessJobRemote**、**AssessJobLeaders**、**AssessJobProfDevel**、**AssessJobDiversity**、**AssessJobProduct**、**AssessJobFinances**
     3. HoursPerWeek 每周花在找工作上的事件，这需要有找工作意愿的人
 20. ImportantBenefits 薪资外的补贴重要点 
 21. JobProfile 工作状态和建立等保留在哪个网站上 **这里可以分析主要的求职网络渠道**
@@ -207,9 +207,9 @@ Column Name --- Survey Question --- Note (if any)
 #### 关于教育的认识观点
 
 1. EducationImportant 教育重要性 
-2. EducationTypes 学习教育方式 这个是继续教育学习的方式Outside of your formal schooling and education, which of the following have you done? 
-   * SelfTaughtTypes 自学方式，要求是Participated in online coding competitions (e.g. HackerRank, CodeChef, TopCoder 
-   * TimeAfterBootcamp bootcamp毕业到工作用多久 要求Participated in a full-time, intensive developer training program (aka “bootcamp”) 
+2. **EducationTypes** 学习教育方式 这个是继续教育学习的方式Outside of your formal schooling and education, which of the following have you done? 
+   * **SelfTaughtTypes** 自学方式，要求是Participated in online coding competitions (e.g. HackerRank, CodeChef, TopCoder 
+   * **TimeAfterBootcamp** bootcamp毕业到工作用多久 要求Participated in a full-time, intensive developer training program (aka “bootcamp”) 
 
 
 
@@ -227,7 +227,7 @@ Column Name --- Survey Question --- Note (if any)
 
 1. PronounceGIF GIF 发音 
 2. ClickyKeys 工作环境-键盘敲击声 机械键盘敲击声
-3. Currency 使用货币 
+3. **Currency** 使用货币 
 4. TabsSpaces 缩紧使用方式
 5. CousinEducation 后辈学习建议 Let’s pretend you have a distant cousin [{null} / named Bob / named Alice]. [They are/ He is / She is] 24 years old, [have/ has/ has] a college degree in a field not related to computer programming, and [have/ has/ has] been working a non-coding job for the last two years. [They want/ he wants/ she wants] your advice on how to switch to a career as a software developer. Which of the following options would you most strongly recommend to [your cousin / Bob / Alice]? Please choose no more than four options. 
 6. WorkStart 选择每天开始上班的时间 一天八小时上班制的工作起始时间
@@ -254,11 +254,19 @@ Column Name --- Survey Question --- Note (if any)
    StackOverflowMakeMoney 和 SOF 相关信息可以不用分析
 10. 
 
+## 3. 2018 年数据
+
+1. Basic Information
+2. Your Work, Education, and Career
+3. Technology and Tech Culture
+4. Stack Overflow Usage + Community Questions
+5. Demographic Information 
 
 
 
 
-## 主题问题
+
+## 4. 主题问题
 
 1. 用户侧写
 
@@ -270,6 +278,8 @@ Column Name --- Survey Question --- Note (if any)
    4. Software development practices (Q710 to Q770) 
    5. Hardware and other tools (Q810 and Q830) 
    6. Stack Overflow usage & attitudes (Q960 to Q980) 
+
+   
 
 2. 扩展问题
 
@@ -284,7 +294,7 @@ Column Name --- Survey Question --- Note (if any)
    9. 在 2017 年的数据中有 ImportantHiring 字段，可以用于分析招聘要求
    10. 2017 年有一个 JobProfile 可以分析常用的找工作平台
 
-## 数据处理
+## 5. 数据处理
 
 1. occupation_group：最好将所有数据的这个 feature 整理到一起进行处理——2016年数据
 2. 对于 2016 年数据需要进行处理，例如在 2018 年中新工作期待的选项是数值型的，而 16年是文本描述型的
@@ -292,7 +302,7 @@ Column Name --- Survey Question --- Note (if any)
 4. 2017 年和 2018 年的工作状态字段存在差异
 5. 18 年的设备信息为 ErgonomicDevices 需要和 17年进行调整
 6. 17年的ProgramHobby 数据是否有必要和2018年的Hobby 作为一起进行合并
-7. 17 年的hoursperweek 是否需要和18年 hourscomputer 时间进行合并
+7. 17 年的hoursperweek 是否需要和18年 hourscomputer 时间进行合并——这里存在错误，两者不是相同数据
 8. 2018 年数据 LanguageDesireNextYear， LanguageWorkedWith 与 2017年数据  HaveWorkedLanguage 和WantWorkFramework
 9. 2018 年  PlatformDesireNextYear 和 PlatformWorkedWith 与2017年数据是 have 和want
 10. QuestionsConfusing 和 QuestionsInteresting 是 2017 年调查最后一个问题，针对调查反馈
@@ -300,3 +310,11 @@ Column Name --- Survey Question --- Note (if any)
 12. 2017 年和 2018 年的 Respondent 可能是无信息意义数据，确认是否需要删除
 13. 抛弃针对 stackoverflow 的数据，例如对其态度之类？对后续分析不是主要关注点
 14. 对调查数据的评价可以丢弃，这也不是分析出发点
+
+
+
+## 6. 2018 年的信息
+
+ 2018 年的调查数据更系统，用户基本信息——国家及其州区信息，用户的行业等信息；
+
+职业生涯信息——职业状态和后续规划，在 2017 年中也有当前工作满意度和工作选择，工作选择参考点
