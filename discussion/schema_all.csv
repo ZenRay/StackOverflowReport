@@ -1,0 +1,286 @@
+index,Column,translation,Question,year
+247,AIDangerous,AI 态度,What do you think is the most dangerous aspect of increasingly advanced AI technology?,2018
+250,AIFuture,AI 态度,"Overall, what's your take on the future of artificial intelligence?",2018
+248,AIInteresting,AI 态度,What do you think is the most exciting aspect of increasingly advanced AI technology?,2018
+249,AIResponsible,AI 态度,"Whose responsibility is it, <u>primarily</u>, to consider the ramifications of increasingly advanced AI technology?",2018
+233,AdBlocker,广告阻塞工具,Do you have ad-blocking software installed on any computers you use regularly?,2018
+234,AdBlockerDisable,广告阻塞工具,"In the past month, have you disabled your ad blocker for any reason, even temporarily or for a specific website?",2018
+235,AdBlockerReasons,广告阻塞工具,What are the reasons that you have disabled your ad blocker in the past month? Please select all that apply.,2018
+239,AdsActions,广告阻塞工具,Which of the following actions have you taken in the past month? Please select all that apply.,2018
+236,AdsAgreeDisagree1,广告认识度,To what extent do you agree or disagree with the following statements: Online advertising can be valuable when it is relevant to me,2018
+237,AdsAgreeDisagree2,广告认识度,To what extent do you agree or disagree with the following statements: I enjoy seeing online updates from companies that I like,2018
+238,AdsAgreeDisagree3,广告认识度,To what extent do you agree or disagree with the following statements: I fundamentally dislike the concept of advertising,2018
+240,AdsPriorities1,广告作用,"Please rank the following advertising qualities in order of their importance to you (by dragging the choices up and down), where 1 is the most important, and 7 is the least important. The advertisement is relevant to me",2018
+241,AdsPriorities2,广告作用,"Please rank the following advertising qualities in order of their importance to you (by dragging the choices up and down), where 1 is the most important, and 7 is the least important. The advertisement is honest about its goals",2018
+242,AdsPriorities3,广告作用,"Please rank the following advertising qualities in order of their importance to you (by dragging the choices up and down), where 1 is the most important, and 7 is the least important. The advertisement provides useful information",2018
+243,AdsPriorities4,广告作用,"Please rank the following advertising qualities in order of their importance to you (by dragging the choices up and down), where 1 is the most important, and 7 is the least important. The advertisement seems trustworthy",2018
+244,AdsPriorities5,广告作用,"Please rank the following advertising qualities in order of their importance to you (by dragging the choices up and down), where 1 is the most important, and 7 is the least important. The advertisement is from a company that I like",2018
+245,AdsPriorities6,广告作用,"Please rank the following advertising qualities in order of their importance to you (by dragging the choices up and down), where 1 is the most important, and 7 is the least important. The advertisement offers something of value, like a free trial",2018
+246,AdsPriorities7,广告作用,"Please rank the following advertising qualities in order of their importance to you (by dragging the choices up and down), where 1 is the most important, and 7 is the least important. The advertisement avoids fluffy or vague language",2018
+278,Age,年龄,"What is your age? If you prefer not to answer, you may leave this question blank.",2018
+216,AgreeDisagree1,其他开发者合作态度,To what extent do you agree or disagree with each of the following statements? I feel a sense of kinship or connection to other developers,2018
+217,AgreeDisagree2,其他开发者合作态度,To what extent do you agree or disagree with each of the following statements? I think of myself as competing with my peers,2018
+218,AgreeDisagree3,其他开发者合作态度,To what extent do you agree or disagree with each of the following statements? I'm not as good at programming as most of my peers,2018
+35,AnnoyingUI,软件 UI 重要性,It annoys me when software has a poor UI,2017
+181,AssessBenefits1,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Salary and/or bonuses",2018
+190,AssessBenefits10,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Transportation benefit (ex. company-provided transportation, public transit allowance)",2018
+191,AssessBenefits11,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Conference or education budget",2018
+182,AssessBenefits2,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Stock options or shares",2018
+183,AssessBenefits3,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Health insurance",2018
+184,AssessBenefits4,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Parental leave",2018
+185,AssessBenefits5,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Fitness or wellness benefit (ex. gym membership, nutritionist)",2018
+186,AssessBenefits6,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Retirement or pension savings matching",2018
+187,AssessBenefits7,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Company-provided meals or snacks",2018
+188,AssessBenefits8,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Computer/office equipment allowance",2018
+189,AssessBenefits9,新工作重要性角度和薪资待遇判断,"Now, imagine you are assessing a job's benefits package. Please rank the following aspects of a job's benefits package from most to least important to you (by dragging the choices up and down), where 1 is most important and 11 is least important. Childcare benefit",2018
+171,AssessJob1,新工作重要性角度和薪资待遇判断,"Imagine that you are assessing a potential job opportunity. Please rank the following aspects of the job opportunity in order of importance (by dragging the choices up and down), where 1 is the most important and 10 is the least important. The industry that I'd be working in",2018
+180,AssessJob10,新工作重要性角度和薪资待遇判断,"Imagine that you are assessing a potential job opportunity. Please rank the following aspects of the job opportunity in order of importance (by dragging the choices up and down), where 1 is the most important and 10 is the least important. How widely used or impactful the product or service I'd be working on is",2018
+172,AssessJob2,新工作重要性角度和薪资待遇判断,"Imagine that you are assessing a potential job opportunity. Please rank the following aspects of the job opportunity in order of importance (by dragging the choices up and down), where 1 is the most important and 10 is the least important. The financial performance or funding status of the company or organization",2018
+173,AssessJob3,新工作重要性角度和薪资待遇判断,"Imagine that you are assessing a potential job opportunity. Please rank the following aspects of the job opportunity in order of importance (by dragging the choices up and down), where 1 is the most important and 10 is the least important. The specific department or team I'd be working on",2018
+174,AssessJob4,新工作重要性角度和薪资待遇判断,"Imagine that you are assessing a potential job opportunity. Please rank the following aspects of the job opportunity in order of importance (by dragging the choices up and down), where 1 is the most important and 10 is the least important. The languages, frameworks, and other technologies I'd be working with",2018
+175,AssessJob5,新工作重要性角度和薪资待遇判断,"Imagine that you are assessing a potential job opportunity. Please rank the following aspects of the job opportunity in order of importance (by dragging the choices up and down), where 1 is the most important and 10 is the least important. The compensation and benefits offered",2018
+176,AssessJob6,新工作重要性角度和薪资待遇判断,"Imagine that you are assessing a potential job opportunity. Please rank the following aspects of the job opportunity in order of importance (by dragging the choices up and down), where 1 is the most important and 10 is the least important. The office environment or company culture",2018
+177,AssessJob7,新工作重要性角度和薪资待遇判断,"Imagine that you are assessing a potential job opportunity. Please rank the following aspects of the job opportunity in order of importance (by dragging the choices up and down), where 1 is the most important and 10 is the least important. The opportunity to work from home/remotely",2018
+178,AssessJob8,新工作重要性角度和薪资待遇判断,"Imagine that you are assessing a potential job opportunity. Please rank the following aspects of the job opportunity in order of importance (by dragging the choices up and down), where 1 is the most important and 10 is the least important. Opportunities for professional development",2018
+179,AssessJob9,新工作重要性角度和薪资待遇判断,"Imagine that you are assessing a potential job opportunity. Please rank the following aspects of the job opportunity in order of importance (by dragging the choices up and down), where 1 is the most important and 10 is the least important. The diversity of the company or organization",2018
+57,AssessJobCommute,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The amount of time I'd have to spend commuting",2017
+55,AssessJobCompensation,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The compensation and benefits offered",2017
+52,AssessJobDept,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The specific department or team I'd be working on",2017
+61,AssessJobDiversity,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The diversity of the company or organization",2017
+51,AssessJobExp,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The experience level called for in the job description",2017
+63,AssessJobFinances,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The financial performance or funding status of the company or organization",2017
+49,AssessJobIndustry,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The industry that I'd be working in",2017
+59,AssessJobLeaders,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The reputations of the company's senior leaders",2017
+56,AssessJobOffice,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The office environment I'd be working in",2017
+62,AssessJobProduct,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? How widely used or impactful the product or service I'd be working on is",2017
+60,AssessJobProfDevel,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? Opportunities for professional development",2017
+54,AssessJobProjects,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? How projects are managed at the company or organization",2017
+58,AssessJobRemote,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The opportunity to work from home/remotely",2017
+50,AssessJobRole,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The specific role or job title I'd be applying for",2017
+53,AssessJobTech,工作选择参考角度,"When you're assessing potential jobs to apply to, how important are each of the following to you? The languages, frameworks, and other technologies I'd be working with",2017
+97,AuditoryEnvironment,工作环境,"Suppose you're about to start a few hours of coding and have complete control over your auditory environment (music, background noise, etc.). What would you do?",2017
+32,BoringDetails,工作内容-对工作细节满意度,I tend to get bored by implementation details,2017
+30,BuildingThings,工作内容-对创造性工作态度,Building things is very rewarding,2017
+167,CareerSatisfaction,职业满意度,"Overall, how satisfied are you with your career thus far?",2018
+18,CareerSatisfaction,职业满意度,Career satisfaction rating,2017
+43,ChallengeMyself,工作内容-对创造性工作态度,I like to challenge myself,2017
+45,ChangeWorld,工作内容-工作态度,I want to change the world,2017
+232,CheckInCode,代码提交频率,"Over the last year, how often have you checked-in or committed code?",2018
+100,CheckInCode,代码提交频率,"Over the last year, how often have you checked-in or committed code?",2017
+65,ClickyKeys,工作环境-键盘敲击声,"If two developers are sharing an office, is it OK for one of them to get a mechanical keyboard with loud ""clicky"" keys?",2017
+107,CollaborateRemote,远程协作,It's harder to collaborate with remote peers than those on site,2017
+210,CommunicationTools,社区工具-作用,"Which of the following tools do you use to communicate, coordinate, or share knowledge with your coworkers? Please select all that apply.",2018
+9,CompanySize,公司大小,"In terms of the number of employees, how large is the company or organization you work for?",2017
+162,CompanySize,公司大小,Approximately how many people are employed by the company or organization you work for?,2018
+10,CompanyType,公司类型,Which of the following best describes the type of company or organization you work for?,2017
+44,CompetePeers,同事竞争,I think of myself as competing with my peers,2017
+208,ConvertedSalary,薪资,"Salary converted to annual USD salaries using the exchange rate on 2018-01-18, assuming 12 working months and 50 working weeks.",2018
+3,Country,国家,In which country do you currently live?,2017
+157,Country,国家,In which country do you currently reside?,2018
+86,CousinEducation,后辈学习建议,"Let's pretend you have a distant cousin. They are 24 years old, have a college degree in a field not related to computer programming, and have been working a non-coding job for the last two years. They want your advice on how to switch to a career as a software developer. Which of the following options would you most strongly recommend to your cousin?
+Let's pretend you have a distant cousin named Robert. He is 24 years old, has a college degree in a field not related to computer programming, and has been working a non-coding job for the last two years. He wants your advice on how to switch to a career as a software developer. Which of the following options would you most strongly recommend to Robert?
+Let's pretend you have a distant cousin named Alice. She is 24 years old, has a college degree in a field not related to computer programming, and has been working a non-coding job for the last two years. She wants your advice on how to switch to a career as a software developer. Which of the following options would you most strongly recommend to Alice?",2017
+79,Currency,使用货币,"Which currency do you use day-to-day? If you're a globe-trotting digital nomad and the answer is “it's complicated,” please pick the one you're most comfortable estimating in.",2017
+205,Currency,使用货币,"Which currency do you use day-to-day? If your answer is complicated, please pick the one you're most comfortable estimating in.",2018
+209,CurrencySymbol,货币符号简写,Three digit currency abbreviation.,2018
+222,DatabaseDesireNextYear,数据库变化,"Which of the following database environments have you done extensive development work in over the past year, and which do you want to work in over the next year?   (If you both worked with the database and want to continue to do so, please check both boxes in that row.)",2018
+221,DatabaseWorkedWith,数据库使用,"Which of the following database environments have you done extensive development work in over the past year, and which do you want to work in over the next year?   (If you both worked with the database and want to continue to do so, please check both boxes in that row.)",2018
+279,Dependents,家庭成员,"Do you have any children or other dependents that you care for? If you prefer not to answer, you may leave this question blank.",2018
+163,DevType,开发类型-2018年数据,Which of the following describe you? Please select all that apply.,2018
+14,DeveloperType,开发类型-2017年数据,Which of the following best describe you?,2017
+106,DifficultCommunication,交流困难,I have difficulty communicating my ideas to my peers,2017
+34,DiversityImportant,多样工作环境重要性,Diversity in the workplace is important,2017
+82,EducationImportant,教育重要性,"Overall, how important has your formal schooling and education been to your career success?",2017
+276,EducationParents,没有该字段,"What is the highest level of education received by either of your parents? If you prefer not to answer, you may leave this question blank.",2018
+83,EducationTypes,学习教育方式,"Outside of your formal schooling and education, which of the following have you done?",2017
+212,EducationTypes,学习教育方式,Which of the following types of non-degree education have you used or participated in? Please select all that apply.,2018
+159,Employment,工作状态,Which of the following best describes your current employment status?,2018
+5,EmploymentStatus,工作状态,Which of the following best describes your current employment status?,2017
+104,EnjoyDebugging,debug 态度,I enjoy debugging code,2017
+110,EquipmentSatisfiedCPU,设备满意度,"Thinking about your main coding workstation, how satisfied are you with each of the following? Processing power (CPU and/or GPU)",2017
+109,EquipmentSatisfiedMonitors,设备满意度,"Thinking about your main coding workstation, how satisfied are you with each of the following? Monitors/screens (number of, size, resolution)",2017
+111,EquipmentSatisfiedRAM,设备满意度,"Thinking about your main coding workstation, how satisfied are you with each of the following? Amount of RAM",2017
+113,EquipmentSatisfiedRW,设备满意度,"Thinking about your main coding workstation, how satisfied are you with each of the following? Storage read/write speed",2017
+112,EquipmentSatisfiedStorage,设备满意度,"Thinking about your main coding workstation, how satisfied are you with each of the following? Storage capacity",2017
+272,ErgonomicDevices,工作设备,What ergonomic furniture or devices do you use on a regular basis? Please select all that apply.,2018
+254,EthicalImplications,道德角度问题,Do you believe that you have an obligation to consider the ethical implications of the code that you write?,2018
+251,EthicsChoice,道德角度问题,Imagine that you were asked to write code for a purpose or product that you consider extremely unethical. Do you write the code anyway?,2018
+252,EthicsReport,道德角度问题,Do you report or otherwise call out the unethical code in question?,2018
+253,EthicsResponsible,道德角度问题,Who do you believe is ultimately most responsible for code that accomplishes something unethical?,2018
+23,ExCoder10Years,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? My career is going the way I thought it would 10 years ago",2017
+27,ExCoderActive,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? I'm still active in the developer community",2017
+22,ExCoderBalance,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? I have better work-life balance now than I did as a developer",2017
+24,ExCoderBelonged,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? When I was a developer, I didn't feel like I belonged with my colleagues",2017
+21,ExCoderNotForMe,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? Working as a developer just wasn't for me",2017
+20,ExCoderReturn,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? If money weren't an issue, I would take a coding job again",2017
+25,ExCoderSkills,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? I don't think my coding skills are up to date",2017
+26,ExCoderWillNotCode,对编程的态度,"You said before that you used to code as part of your job, but no longer do. To what extent do you agree or disagree with the following statements? I probably won't code for a living ever again",2017
+273,Exercise,锻炼,"In a typical week, how many times do you exercise?",2018
+153,ExpectedSalary,毕业后期望年薪,"You said before that you are currently learning how to program. When you have completed your studies, what annual salary do you expect to earn in your first job after graduation?",2017
+160,FormalEducation,完成的最高学位,Which of the following best describes the highest level of formal education that you’ve completed?,2018
+6,FormalEducation,完成的最高学位,Which of the following best describes the highest level of formal education that you've completed?,2017
+226,FrameworkDesireNextYear,下一年工作的库和工具,"Which of the following libraries, frameworks, and tools have you done extensive development work in over the past year, and which do you want to work in over the next year?",2018
+225,FrameworkWorkedWith,当前工作的扩展库和工具,"Which of the following libraries, frameworks, and tools have you done extensive development work in over the past year, and which do you want to work in over the next year?",2018
+36,FriendsDevelopers,朋友是否为开发者,"Most of my friends are developers, engineers, or scientists",2017
+274,Gender,性别,"Which of the following do you currently identify as? Please select all that apply. If you prefer not to answer, you may leave this question blank.",2018
+145,Gender,性别,Which of the following do you currently identify as?,2017
+215,HackathonReasons,在线编程和学习的原因,You indicated previously that you had participated in an online coding competition or hackathon.  Which of the following best describe your reasons for doing so?,2018
+92,HaveWorkedDatabase,正在使用的数据库,"Which of the following database technologies have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+90,HaveWorkedFramework,正在使用的框架,"Which of the following libraries, frameworks, and tools have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+88,HaveWorkedLanguage,正在使用语言,"Which of the following languages have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+94,HaveWorkedPlatform,正在使用系统平台,"Which of the following platforms have you done extensive development work for over the past year, and which do you want to work on over the next year?",2017
+146,HighestEducationParents,父母收到的最高教育程度,What is the highest level of education received by either of your parents?,2017
+155,Hobby,编程爱好,Do you code as a hobby?,2018
+8,HomeRemote,远程和在工作频率,How often do you work from home or remotely?,2017
+168,HopeFiveYears,5 年工作计划,Which of the following best describes what you hope to be doing in five years?,2018
+269,HoursComputer,一天的桌面工作时间,"On a typical day, how much time do you spend on a desktop or laptop computer?",2018
+270,HoursOutside,一天之内的非工作时间,"On a typical day, how much time do you spend outside?",2018
+47,HoursPerWeek,每周工作时间,"During a typical week, approximately how many hours do you spend on activities related to finding new job opportunities?Please adjust the slider to the appropriate number of hours. The box to the right will indicate the number of hours you have chosen.",2017
+263,HypotheticalTools1,对假设工具打分_同伴指导系统,"Please rate your interest in participating in each of the following hypothetical tools on Stack Overflow, where 1 is not at all interested and 5 is extremely interested. A peer mentoring system",2018
+264,HypotheticalTools2,对假设工具打分_编程私人区域,"Please rate your interest in participating in each of the following hypothetical tools on Stack Overflow, where 1 is not at all interested and 5 is extremely interested. A private area for people new to programming",2018
+265,HypotheticalTools3,对假设工具打分_编程博客平台,"Please rate your interest in participating in each of the following hypothetical tools on Stack Overflow, where 1 is not at all interested and 5 is extremely interested. A programming-oriented blog platform",2018
+266,HypotheticalTools4,对假设工具打分_工作审查平台,"Please rate your interest in participating in each of the following hypothetical tools on Stack Overflow, where 1 is not at all interested and 5 is extremely interested. An employer or job review system",2018
+267,HypotheticalTools5,对假设工具打分_职业问答领域,"Please rate your interest in participating in each of the following hypothetical tools on Stack Overflow, where 1 is not at all interested and 5 is extremely interested. An area for Q&A related to career growth",2018
+227,IDE,开发环境,Which development environment(s) do you use regularly?  Please check all that apply.,2018
+96,IDE,开发环境,Which development environment(s) do you use regularly?,2017
+64,ImportantBenefits,薪资外的补贴重要点,"When it comes to compensation and benefits, other than base salary, which of the following are most important to you?",2017
+69,ImportantHiringAlgorithms,招聘算法和数据结构要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Knowledge of algorithms and data structures",2017
+71,ImportantHiringCommunication,招聘中交流要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Communication skills",2017
+74,ImportantHiringCompanies,招聘中合作要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Previous companies worked at",2017
+76,ImportantHiringEducation,招聘中教育背景要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Educational credentials (e.g. schools attended, specific field of study, grades earned)",2017
+78,ImportantHiringGettingThingsDone,招聘中GTD记录要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Track record of getting things done",2017
+72,ImportantHiringOpenSource,招聘中开源项目中的贡献要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Contributions to open source projects",2017
+73,ImportantHiringPMExp,招聘中项目管理工具和经验要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Experience with specific project management tools & techniques",2017
+77,ImportantHiringRep,招聘中要求SOF中的贡献,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Stack Overflow reputation",2017
+70,ImportantHiringTechExp,招聘中对库架构等工具的经验要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Experience with specific tools (libraries, frameworks, etc.) used by the employer",2017
+75,ImportantHiringTitles,招聘中对前工作职位要求,"Congratulations! You've just been put in charge of technical recruiting at Globex, a multinational high- tech firm. This job comes with a corner office, and you have an experienced staff of recruiters at your disposal. They want to know what they should prioritize when recruiting software developers. How important should each of the following be in Globex's hiring process? Previous job titles held",2017
+105,InTheZone,编程深度状态,I often get “into the zone” when I'm coding,2017
+122,InfluenceCloud,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Cloud or serverless back-end solutions,2017
+125,InfluenceCommunication,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Communication & collaboration tools,2017
+123,InfluenceConsultants,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Consultants,2017
+121,InfluenceDatabase,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Database systems or solutions,2017
+119,InfluenceDeptTech,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Technical stack used in your department,2017
+116,InfluenceHardware,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Personal workstation hardware for others in the company,2017
+114,InfluenceInternet,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Internet bandwidth,2017
+124,InfluenceRecruitment,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Recruitment tools & platforms,2017
+117,InfluenceServers,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Servers,2017
+118,InfluenceTechStack,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Main technical stack of the company,2017
+120,InfluenceVizTools,公司购买决策,"How much influence do you have on purchasing decisions within your organization for each of the following? Data analysis and visualization tools (e.g. Tableau, Looker)",2017
+115,InfluenceWorkstation,公司购买决策,How much influence do you have on purchasing decisions within your organization for each of the following? Your personal workstation hardware,2017
+151,InterestedAnswers,对其他开发者学习的回答感兴趣,I'm interested in learning how other developers answered,2017
+40,InvestTimeTools,对使用的工具投入大量时间,I invest a lot of time into the tools I use,2017
+192,JobContactPriorities1,接受新工作沟通方式,"Imagine that a company wanted to contact you about a job that is a good fit for you. Please rank your preference in how you are contacted (by dragging the choices up and down), where 1 is the most preferred and 5 is the least preferred. Telephone call",2018
+193,JobContactPriorities2,接受新工作沟通方式,"Imagine that a company wanted to contact you about a job that is a good fit for you. Please rank your preference in how you are contacted (by dragging the choices up and down), where 1 is the most preferred and 5 is the least preferred. Email to my private address",2018
+194,JobContactPriorities3,接受新工作沟通方式,"Imagine that a company wanted to contact you about a job that is a good fit for you. Please rank your preference in how you are contacted (by dragging the choices up and down), where 1 is the most preferred and 5 is the least preferred. Email to my work address",2018
+195,JobContactPriorities4,接受新工作沟通方式,"Imagine that a company wanted to contact you about a job that is a good fit for you. Please rank your preference in how you are contacted (by dragging the choices up and down), where 1 is the most preferred and 5 is the least preferred. Message on a job site",2018
+196,JobContactPriorities5,接受新工作沟通方式,"Imagine that a company wanted to contact you about a job that is a good fit for you. Please rank your preference in how you are contacted (by dragging the choices up and down), where 1 is the most preferred and 5 is the least preferred. Message on a social media site",2018
+197,JobEmailPriorities1,新工作信息邮件沟通,"Imagine that same company decided to contact you through email. Please rank the following items by how important it is to include them in the message (by dragging the choices up and down), where 1 is the most important and 7 is the least important. Details on the company I'd be working for",2018
+198,JobEmailPriorities2,新工作信息邮件沟通,"Imagine that same company decided to contact you through email. Please rank the following items by how important it is to include them in the message (by dragging the choices up and down), where 1 is the most important and 7 is the least important. Details on the specific department I'd be working for or product I'd be working on",2018
+199,JobEmailPriorities3,新工作信息邮件沟通,"Imagine that same company decided to contact you through email. Please rank the following items by how important it is to include them in the message (by dragging the choices up and down), where 1 is the most important and 7 is the least important. Specifics of why they think I'd be a good fit for the role (ex. my prior work history, projects on GitHub)",2018
+200,JobEmailPriorities4,新工作信息邮件沟通,"Imagine that same company decided to contact you through email. Please rank the following items by how important it is to include them in the message (by dragging the choices up and down), where 1 is the most important and 7 is the least important. Details of which technologies I'd be working with",2018
+201,JobEmailPriorities5,新工作信息邮件沟通,"Imagine that same company decided to contact you through email. Please rank the following items by how important it is to include them in the message (by dragging the choices up and down), where 1 is the most important and 7 is the least important. An estimate of the compensation range",2018
+202,JobEmailPriorities6,新工作信息邮件沟通,"Imagine that same company decided to contact you through email. Please rank the following items by how important it is to include them in the message (by dragging the choices up and down), where 1 is the most important and 7 is the least important. Information on the company's hiring process",2018
+203,JobEmailPriorities7,新工作信息邮件沟通,"Imagine that same company decided to contact you through email. Please rank the following items by how important it is to include them in the message (by dragging the choices up and down), where 1 is the most important and 7 is the least important. Details on the company's product development process",2018
+66,JobProfile,工作状态和建立等保留在哪个网站上,"On which of the following sites do you maintain a profile, CV, or resumé?",2017
+19,JobSatisfaction,工作满意度,Job satisfaction rating,2017
+166,JobSatisfaction,工作满意度,"How satisfied are you with your current job? If you work more than one job, please answer regarding the one you spend the most hours on.",2018
+169,JobSearchStatus,当前找工作意愿,Which of the following best describes your current job-seeking status?,2018
+33,JobSecurity,,Job security is important to me,2017
+46,JobSeekingStatus,当前找工作意愿,Which of the following best describes your current job-seeking status?,2017
+42,KinshipDevelopers,和其他开发者之间关系,I feel a sense of kinship to other developers,2017
+220,LanguageDesireNextYear,使用其他语言,"Which of the following programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year?  (If you both worked with the language and want to continue to do so, please check both boxes in that row.)",2018
+219,LanguageWorkedWith,已使用语言,"Which of the following programming, scripting, and markup languages have you done extensive development work in over the past year, and which do you want to work in over the next year?  (If you both worked with the language and want to continue to do so, please check both boxes in that row.)",2018
+48,LastNewJob,最近一次新工作时间,When was the last time that you took a job with a new employer?,2017
+170,LastNewJob,最近一次新工作时间,When was the last time that you took a job with a new employer?,2018
+68,LearnedHiring,了解新工作,Think back to when you first applied to work for your current employer. Which of the following best describes how you learned that they were hiring for that particular job?,2017
+31,LearningNewTech,学习新技术,Learning new technologies is fun,2017
+7,MajorUndergrad,本科专业,Which of the following best describes your main field of study (aka 'major') in college or university/for your undergraduate studies?,2017
+230,Methodology,开发过程中使用了方法,Which of the following methodologies do you have experience working in?,2018
+98,Methodology,开发过程中使用了方法,Which of the following methodologies do you have experience working in?,2017
+108,MetricAssess,,"Congratulations! The bosses at your new employer, E Corp, are allowing you to choose which metrics will be used to assess your individual performance in your role as a senior developer. Which metrics do you suggest to the E bosses?",2017
+280,MilitaryUS,服务于军方,Are you currently serving or have you ever served in the U.S. Military?,2018
+16,MobileDeveloperType,移动开发类型,For which of the following platforms do you develop mobile applications?,2017
+17,NonDeveloperType,作为非开发者的工作,Which of the following describe you?,2017
+229,NumberMonitors,显示器数量,How many monitors are set up at your workstation?,2018
+156,OpenSource,开源平台共享,Do you contribute to open source projects?,2018
+228,OperatingSystem,主要操作系统,What is the primary operating system in which you work?,2018
+102,OtherPeoplesCode,维护他人代码的态度—受折磨,Maintaining other people's code is a form of torture,2017
+80,Overpaid,对自己在市场的评价,"Compared to your estimate of your own market value, do you think you are…?",2017
+224,PlatformDesireNextYear,接下来的工作平台期待,"Which of the following platforms have you done extensive development work for over the past year?   (If you both developed for the platform and want to continue to do so, please check both boxes in that row.)",2018
+223,PlatformWorkedWith,正在使用工作平台,"Which of the following platforms have you done extensive development work for over the past year?   (If you both developed for the platform and want to continue to do so, please check both boxes in that row.)",2018
+29,ProblemSolving,解决问题态度,I love solving problems,2017
+1,Professional,专业性描述,Which of the following best describes you?,2017
+2,ProgramHobby,编程作为爱好,Do you program as a hobby or contribute to open source projects?,2017
+103,ProjectManagement,对项目管理的作用态度,Most project management techniques are useless,2017
+28,PronounceGIF,GIF 发音,"How do you pronounce ""GIF""?",2017
+150,QuestionsConfusing,调查描述,The questions were confusing,2017
+149,QuestionsInteresting,调查描述,The questions were interesting,2017
+147,Race,人种描述,Which of the following do you identify as?,2017
+277,RaceEthnicity,人种描述,"Which of the following do you identify as? Please check all that apply. If you prefer not to answer, you may leave this question blank.",2018
+154,Respondent,对应的随机序列号,Randomized respondent ID number (not in order of survey response time),2018
+0,Respondent,对应的随机序列号,Respondent ID number,2017
+67,ResumePrompted,改简历的原因,"Think back to the last time you updated your resumé, CV, or an online profile on a job site. What prompted you to do so?",2017
+37,RightWrongWay,描述性选项同意情况,There's a right and a wrong way to do everything,2017
+206,Salary,薪资,"What is your current gross salary (before taxes and deductions), in ${q://QID50/ChoiceGroup/SelectedChoicesTextEntry}? Please enter a whole number in the box below, without any punctuation. If you are paid hourly, please estimate an equivalent weekly, monthly, or yearly salary. If you prefer not to answer, please leave the box empty.",2018
+152,Salary,薪资,"What is your current annual base salary, before taxes, and excluding bonuses, grants, or other compensation?",2017
+207,SalaryType,薪资类型,"Is that salary weekly, monthly, or yearly?",2018
+84,SelfTaughtTypes,教授信息方式,"You indicated that you had taught yourself a programming technology without taking a course. What resources did you use to do that? If you've done it more than once, please think about the most recent time you've done so.",2017
+213,SelfTaughtTypes,教授信息方式,"You indicated that you had taught yourself a programming technology without taking a course. What resources did you use to do that? If you’ve done it more than once, please think about the most recent time you’ve done so. Please select all that apply.",2018
+39,SeriousWork,描述性选项同意情况,I take my work very seriously,2017
+275,SexualOrientation,性状况,"Which of the following do you currently identify as? Please select all that apply. If you prefer not to answer, you may leave this question blank.",2018
+101,ShipIt,代码优化执行时间态度性问题,It's better to ship now and optimize later,2017
+271,SkipMeals,废寝忘食,"In a typical week, how many times do you skip a meal in order to be more productive?",2018
+138,StackOverflowAdsDistracting,广告态度,The ads on Stack Overflow are distracting,2017
+137,StackOverflowAdsRelevant,广告态度,The ads on Stack Overflow are relevant to me,2017
+135,StackOverflowAnswer,最近三月的回复频繁度,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Written a new answer to someone else's question",2017
+142,StackOverflowBetter,SO 对网络贡献,Stack Overflow makes the Internet a better place,2017
+140,StackOverflowCommunity,SO 认同感,I feel like a member of the Stack Overflow community,2017
+132,StackOverflowCompanyPage,访问公司页面研究潜在的雇主,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Researched a potential employer by visiting its company page",2017
+262,StackOverflowConsiderMember,SO成员,Do you consider yourself a member of the Stack Overflow community?,2018
+130,StackOverflowCopiedCode,复制代码,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Copied a code example and pasted it into my codebase",2017
+126,StackOverflowDescribes,,Which of the following best describes you?,2017
+260,StackOverflowDevStory,更新so开发人员故事,Do you have an up-to-date Developer Story on Stack Overflow?,2018
+128,StackOverflowDevices,连接 SO 设备,Which of the following devices have you used to connect to Stack Overflow over the last three months?,2017
+129,StackOverflowFoundAnswer,找到解决编码问题的答案,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Found an answer that solved my coding problem",2017
+257,StackOverflowHasAccount,有无os账户,Do you have a Stack Overflow account?,2018
+141,StackOverflowHelpful,SO对我代码帮助很大,The answers and code examples I get on Stack Overflow are helpful,2017
+131,StackOverflowJobListing,看过我感兴趣的职位列表,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Seen a job listing I was interested in",2017
+133,StackOverflowJobSearch,寻找工作,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Searched for jobs",2017
+259,StackOverflowJobs,使用或访问SO jobs,Have you ever used or visited Stack Overflow Jobs?,2018
+261,StackOverflowJobsRecommend,推荐SO,How likely is it that you would recommend Stack Overflow Jobs to a friend or colleague? Where 0 is not likely at all and 10 is very likely.,2018
+144,StackOverflowMakeMoney,SO只为钱,The people who run Stack Overflow are just in it for the money,2017
+136,StackOverflowMetaChat,参与SO的讨论,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Participated in community discussions on meta or in chat",2017
+139,StackOverflowModeration,SO审核不公平,The moderation on Stack Overflow is unfair,2017
+134,StackOverflowNewQuestion,问问题,"Over the last three months, approximately how often have you done each of the following on Stack Overflow? Asked a new question",2017
+258,StackOverflowParticipate,参加SO活动频率,"How frequently would you say you participate in Q&A on Stack Overflow? By participate we mean ask, answer, vote for, or comment on questions.",2018
+255,StackOverflowRecommend,推荐SO的意愿,How likely is it that you would recommend Stack Overflow overall to a friend or colleague? Where 0 is not likely at all and 10 is very likely.,2018
+127,StackOverflowSatisfaction,满意度,Stack Overflow satisfaction,2017
+256,StackOverflowVisit,访问SO的频率,How frequently would you say you visit Stack Overflow?,2018
+143,StackOverflowWhatDo,没有SO将不知所措,I don't know what I'd do without Stack Overflow,2017
+158,Student,当前是否为学生,"Are you currently enrolled in a formal, degree-granting college or university program?",2018
+282,SurveyEasy,这个调查完成的难易程度,How easy or difficult was this survey to complete?,2018
+148,SurveyLong,调查太长,This survey was too long,2017
+281,SurveyTooLong,对这个调查的长度有个感想,How do you feel about the length of the survey that you just completed?,2018
+81,TabsSpaces,缩进使用方式,Tabs or spaces?,2017
+85,TimeAfterBootcamp,bootcamp毕业到工作用多久,You indicated previously that you went through a developer “bootcamp.” How long did it take you to get a full-time job as a developer after graduating?,2017
+214,TimeAfterBootcamp,developer training毕业到工作用多久,You indicated previously that you went through a developer training program or bootcamp. How long did it take you to get a full-time job as a developer after graduating?,2018
+211,TimeFullyProductive,,"Suppose a new developer with four years of experience, including direct experience working with your company's main technical stack, joined your team tomorrow.  All other things being equal, how long would you expect it to take before they were fully productive and contributing at a typical level to your main code base?",2018
+161,UndergradMajor,大学研究领域,You previously indicated that you went to a college or university. Which of the following best describes your main field of study (aka 'major'),2018
+38,UnderstandComputers,计算机有太多我搞不明白的,"Honestly, there's a lot about computers that I just don't understand",2017
+4,University,当前是否为学生,"Are you currently enrolled in a formal, degree-granting college or university program?",2017
+204,UpdateCV,更新简历的原因,"Think back to the last time you updated your resumé, CV, or an online profile on a job site. What is the main reason that you did so?",2018
+99,VersionControl,版本控制使用,"What version control system do you use? If you use several, please choose the one you use most often.",2017
+231,VersionControl,版本控制使用,What version control systems do you use regularly? Please select all that apply.,2018
+268,WakeTime,起床时间,"On days when you work, what time do you typically wake up?",2018
+93,WantWorkDatabase,理想工作距离,"Which of the following database technologies have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+91,WantWorkFramework,期待使用其他架构,"Which of the following libraries, frameworks, and tools have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+89,WantWorkLanguage,期待使用其他语言,"Which of the following languages have you done extensive development work in over the past year, and which do you want to work in over the next year?",2017
+95,WantWorkPlatform,期待使用公族平台,"Which of the following platforms have you done extensive development work for over the past year, and which do you want to work on over the next year?",2017
+15,WebDeveloperType,网页开发者最佳描述,Which of the following best describes you as a Web developer?,2017
+41,WorkPayCare,只看重报酬,"I don't really care what I work on, so long as I'm paid well",2017
+87,WorkStart,选择每天开始上班的时间,Suppose you could choose your own working hours for an 8-hour day. What time would you start work for the day? Please adjust the slider to the hour nearest your ideal start time. The box next to the slider will display your selection using a 24-hour clock,2017
+12,YearsCodedJob,以编程为工作多少年了,For how many years have you coded as part of your job?,2017
+13,YearsCodedJobPast,编程应用在工作中时长,For how many years did you code as part of your job?,2017
+164,YearsCoding,加上上学的时间编程了多少年,"Including any education, for how many years have you been coding?",2018
+165,YearsCodingProf,以编程为工作多少年了,For how many years have you coded professionally (as a part of your work)?,2018
+11,YearsProgram,第一次学习编程是多久前,How long has it been since you first learned how to program?,2017
