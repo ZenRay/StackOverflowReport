@@ -19,7 +19,7 @@
 | Country                | Country                                 | Country                |                                                              |                                                              |
 | Salary                 | Salary - 320                            | ConvertedSalary -P20   | （待确认一下两者是否存在差异）**2017增加salarytype**         | 17年是年薪，18年会选择薪水模式，可能需要转化                 |
 | Currency               | Currency -310                           | CurrencySymbol0 -P20   | 2                                                            |                                                              |
-| EmploymentStatus       | EmploymentStatus                        | Employment             | 2                                                            |                                                              |
+|                        |                                         |                        |                                                              |                                                              |
 | CompanySize            | CompanySize                             | CompanySize            |                                                              |                                                              |
 | DeveloperType          | DeveloperType                           | DevType                | 2                                                            |                                                              |
 | JobSatisfaction        | JobSatisfaction                         | JobSatisfaction        |                                                              |                                                              |
