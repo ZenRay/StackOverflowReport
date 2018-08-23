@@ -145,8 +145,95 @@
     * Yearly
     * Weekly
 
+14. CompanySize：公司规模，包括的字段信息
 
+    1. Fewer than 10 employees 
+    2. 10 to 19 employees 
+    3. 20 to 99 employees 
+    4. 100 to 499 employees 
+    5. 500 to 999 employees 
+    6. 1,000 to 4,999 employees 
+    7. 5,000 to 9,999 employees 
+    8. 10,000 or more employees 
+    9. NoInfo——I don't know 信息 和 I prefer not to answer 信息替换为 NoInfo
 
+15. DeveloperType：开发类型，是以一个复选信息字段，可能包括的字段信息。对于 2017 年和 2018 年的信息存在表达不一致的情况
 
+    ```
+    2017年 的信息：
+    Web developer                                            
+    Mobile developer                                         
+    Desktop applications developer                        
+    Other                                              
+    Embedded applications/devices developer       
+    Developer with a statistics or mathematics background 
+    Data scientist                                            
+    DevOps specialist                                      
+    Quality assurance engineer                               
+    Database administrator                                   
+    Graphics programming                                     
+    Machine learning specialist                              
+    Systems administrator                                      
+    Graphic designer  
+    
+    2018 年信息
+    Back-end developer                     
+    Full-stack developer                           
+    Mobile developer                                
+    Student                                         
+    Front-end developer                              
+    Desktop or enterprise applications developer    
+    Data scientist or machine learning specialist    
+    Embedded applications or devices developer     
+    QA or test developer                             
+    Data or business analyst                          
+    C-suite executive (CEO, CTO, etc.)              
+    DevOps specialist                               
+    Engineering manager                               
+    Educator or academic researcher                 
+    System administrator                             
+    Game or graphics developer                        
+    Designer                                          
+    Product manager                                  
+    Database administrator                           
+    ```
 
+16. JobSatisfaction：工作满意度，2017 年和 2018 年数据不一致，修改后保存信息：
 
+    * Extremely dissatisfied				:	= 0
+    * Moderately dissatisfied			:	<= 2
+    * Slightly dissatisfied 				: 	<= 4
+    * Neither satisfied nor dissatisfied	:	= 5
+    * Slightly satisfied		:	<=  7
+    * Moderately satisfied	:	<= 9
+    * Extremely satisfied	:	= 10
+
+    ```
+    2017 年数据
+    8.0     
+    7.0     
+    9.0     
+    6.0    
+    10.0   
+    5.0     
+    4.0     
+    3.0    
+    2.0      
+    0.0      
+    1.0      
+    
+    2018 年数据
+    Moderately satisfied 
+    Extremely satisfied  
+    Slightly satisfied   
+    Slightly dissatisfied   
+    Moderately dissatisfied
+    Neither satisfied nor dissatisfied
+    Extremely dissatisfied      
+    ```
+
+17. JobSeekingStatus：求职状态，2018 年的字段名称需要修改（JobSearchStatus）。字段信息如下：
+
+    1. I am actively looking for a job 
+    2. I’m not actively looking, but I am open to new opportunities
+    3. I am not interested in new job opportunities
