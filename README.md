@@ -14,6 +14,8 @@
 
    This is a directory that stores the discussion and the ToDo_list
 
+   * [FieldsDict](discussion/FieldsDict.md) markdown file, describe the fields information
+
 3. [tool](./tool)
 
    This is a directory that stores the helper module files
