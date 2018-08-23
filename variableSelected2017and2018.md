@@ -236,3 +236,5 @@ HypotheticalTools5	对假设工具打分_职业问答领域
   职业DevType+语言LanguageWorkedWith
 
 - 17 年的 MetricsAssess 评估指标 481
+
+- 开发者类型，可以分析做了几个类型的开发，单类型开发人员做哪些，多开发人员开发工作是否相关
