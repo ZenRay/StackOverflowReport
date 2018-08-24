@@ -238,7 +238,7 @@
     2. I’m not actively looking, but I am open to new opportunities
     3. I am not interested in new job opportunities
 
-18. YearsCoding：编程年限，2017 年中包括了两个字段（YearsCodedJob 与 YearsCodedJobPast）说明了曾经或者过去的的编程年限。为与 2018 年的数据统一，将 2017 年的两个字段统一为一个 YearsCoding（从数据内容上来看，具有可行性—— YearsCodedJobPast 数据量少，可以统一到 YearsCodedJob 作补充数据， 以时间年限上最大的数据最为可用数据。这样说明的是整体有多少编程年限）
+18. YearsCoding：编程年限，2017 年中包括了两个字段（YearsCodedJob 与 YearsCodedJobPast）说明了曾经或者过去的的编程年限。为与 2018 年的数据统一，将 2017 年的两个字段统一为一个 YearsCoding（从数据内容上来看，具有可行性—— YearsCodedJobPast 数据量少，可以统一到 YearsCodedJob 作补充数据， 以时间年限上最大的数据作为值。这样说明的是整体有多少编程年限）
 
        *  Less than a year 
        *  1 to 2 years 
@@ -261,3 +261,195 @@
     *  18 to 19 years
     *  19 to 20 years
     *  20 or more years 
+19. LanguageDesireNextYear ：下一年中期望使用语言，在 2017 年中字段为 WantWorkLanguage，名称存在差异，此外值中存在多余的空格。字段数据值为：
+   - Assembly
+   - Bash/Shell
+   - C
+   - C#
+   - C++
+   - CSS
+   - Clojure
+   - Cobol
+   - CoffeeScript
+   - Common Lisp
+   - Dart
+   - Delphi/Object Pascal
+   - Elixir
+   - Erlang
+   - F#
+   - Go
+   - Groovy
+   - HTML
+   - Hack
+   - Haskell
+   - Java
+   - JavaScript
+   - Julia
+   - Kotlin
+   - Lua
+   - Matlab
+   - Objective-C
+   - Ocaml
+   - PHP
+   - Perl
+   - Python
+   - R
+   - Ruby
+   - Rust
+   - SQL
+   - Scala
+   - Smalltalk
+   - Swift
+   - TypeScript
+   - VB.NET
+   - VBA
+   - Visual Basic 6
+20. LanguageWorkedWith：目前正在使用的语言，在 2017 年中字段为 HaveWorkedLanguage，名称存在差异，此外值中存在多余的空格。字段数据值为：
+   - Assembly
+   - Bash/Shell
+   - C
+   - C#
+   - C++
+   - CSS
+   - Clojure
+   - Cobol
+   - CoffeeScript
+   - Common Lisp
+   - Dart
+   - Delphi/Object Pascal
+   - Elixir
+   - Erlang
+   - F#
+   - Go
+   - Groovy
+   - HTML
+   - Hack
+   - Haskell
+   - Java
+   - JavaScript
+   - Julia
+   - Kotlin
+   - Lua
+   - Matlab
+   - Objective-C
+   - Ocaml
+   - PHP
+   - Perl
+   - Python
+   - R
+   - Ruby
+   - Rust
+   - SQL
+   - Scala
+   - Smalltalk
+   - Swift
+   - TypeScript
+   - VB.NET
+   - VBA
+   - Visual Basic 6
+21. DatabaseDesireNextYear：下一年期待使用数据库，2017 年的名称为 WantWorkDatabase，字段名称不一致，数据中存在不必要空格。数据值为：
+   - Amazon DynamoDB
+   - Amazon RDS/Aurora
+   - Amazon Redshift
+   - Apache HBase
+   - Apache Hive
+   - Cassandra
+   - Elasticsearch
+   - Google BigQuery
+   - Google Cloud Storage
+   - IBM Db2
+   - MariaDB
+   - Memcached
+   - Microsoft Azure (Tables, CosmosDB, SQL, etc)
+   - MongoDB
+   - MySQL
+   - Neo4j
+   - Oracle
+   - PostgreSQL
+   - Redis
+   - SQL Server
+   - SQLite
+22. DatabaseWorkedWith ：当前正在使用的数据库，2017 年的名称为 WantWorkDatabase，字段名称不一致，数据中存在不必要空格。数据值为：
+   - Amazon DynamoDB
+   - Amazon RDS/Aurora
+   - Amazon Redshift
+   - Apache HBase
+   - Apache Hive
+   - Cassandra
+   - Elasticsearch
+   - Google BigQuery
+   - Google Cloud Storage
+   - IBM Db2
+   - MariaDB
+   - Memcached
+   - Microsoft Azure (Tables, CosmosDB, SQL, etc)
+   - MongoDB
+   - MySQL
+   - Neo4j
+   - Oracle
+   - PostgreSQL
+   - Redis
+   - SQL Server
+   - SQLite
+23. PlatformWorkedWith ：2017 年字段名称为HaveWorkedPlatform，字段名称不一致，此外存在多余空格。 数据信息为：
+   - AWS
+   - Amazon Echo
+   - Amazon Web Services (AWS)
+   - Android
+   - Apple Watch or Apple TV
+   - Arduino
+   - Azure
+   - Drupal
+   - ESP8266
+   - Firebase
+   - Gaming console
+   - Google Cloud Platform/App Engine
+   - Google Home
+   - Heroku
+   - IBM Cloud or Watson
+   - Linux
+   - Linux Desktop
+   - Mac OS
+   - Mainframe
+   - Microsoft Azure
+   - Predix
+   - Raspberry Pi
+   - Salesforce
+   - Serverless
+   - SharePoint
+   - Windows Desktop
+   - Windows Desktop or Server
+   - Windows Phone
+   - WordPress
+   - iOS
+24. PlatformDesireNextYear ：2017 年字段名称为WantWorkPlatform，字段名称不一致，此外存在多余空格。 数据信息为：
+   - AWS
+   - Amazon Echo
+   - Amazon Web Services (AWS)
+   - Android
+   - Apple Watch or Apple TV
+   - Arduino
+   - Azure
+   - Drupal
+   - ESP8266
+   - Firebase
+   - Gaming console
+   - Google Cloud Platform/App Engine
+   - Google Home
+   - Heroku
+   - IBM Cloud or Watson
+   - Linux
+   - Linux Desktop
+   - Mac OS
+   - Mainframe
+   - Microsoft Azure
+   - Predix
+   - Raspberry Pi
+   - Salesforce
+   - Serverless
+   - SharePoint
+   - Windows Desktop
+   - Windows Desktop or Server
+   - Windows Phone
+   - WordPress
+   - iOS
