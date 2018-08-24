@@ -130,7 +130,7 @@ def convert_single_func(x, validate_values, value=np.nan, reg_option=False,
 		return value
 
 
-def convert_list_funct(x):
+def convert_list_funct(x, count_option=False):
 	"""Convert function
 	The function is used in the apply method, which can be get the first index 
 	value about the element
@@ -138,10 +138,18 @@ def convert_list_funct(x):
 	Parameters:
 		x : 
 			element in the Series data or in the DataFrame data. If it's list,
-			return the first index value, or return the x itself
+			return the first index value, or return the x itself according to the
+			parameter count_option
+		count_option : boolean default False
+			If True, count the number of the x; otherwise, return the x value
 	"""
 	if not isinstance(x, list):
-		if pd.isnull(x):
+		if pd.isnull(x) or (not count_option):
 			return x
+		elif count_option:
+			return 1
 	else:
-		return x[0]
+		if count_option:
+			return len(x)
+		else:
+			return x[0]
