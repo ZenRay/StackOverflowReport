@@ -96,13 +96,13 @@ Column Name --- Survey Question --- Note (if any)
 
 以下是针对上面的信息涉及到的其他问题
 
-* **Professional** 职业水平
-* **YearsCodedJob** 和 **YearsCodedJobPast** 开发时长——结合 2018 年 yearscoding 和 yearscodingprof
-* **DeveloperType** 职业开发者的开发类型，是多选项
+* **Professional** 职业水平。
+* **YearsCodedJob** 和 **YearsCodedJobPast** 开发时长——结合 2018 年 yearscoding 和 yearscodingprof。
+* **DeveloperType** 职业开发者的开发类型，是多选项。
   * WebDeveloperType 网页开发者最佳描述  职业类型是网页开发的
   * MobileDeveloperType 移动开发平台类型 职业类型是移动开发
 * NonDeveloperType 非开发者职业
-* **JobSatisfaction** 工作满意度，只能是 software developer
+* **JobSatisfaction** 工作满意度，只能是 software developer。
 * 下面的值只能是I used to code for a living, but I no longer do 的开发者，以下 **应当作为换行业分析的角度**
 * ExCoderReturn 返回开发工作，
 * ExCoderNotForMe 表示Working as a developer just wasn’t for me 
@@ -115,7 +115,7 @@ Column Name --- Survey Question --- Note (if any)
 * 
 * **LastNewJob** 最近更换工作，条件是前三类开发者
 * **ResumePrompted** 最近更新简历原因——2018 年数据是 updatecv
-* **Salary** 年薪，条件是前三类开发者
+* **Salary** 年薪，条件是前三类开发者。
 * Overpaid 对自己在市场的评价 从市场方向来看待个人薪资情况
 * ExpectedSalary 期待年薪，这个的条件是学生
 * EducationImportant 教育重要性，这个是职业开发者对教育的态度，只能是职业开发者
@@ -125,21 +125,21 @@ Column Name --- Survey Question --- Note (if any)
 * **HaveWorkedDatabase** 和 **WantWorkDatabase** 正在使用和期待使用的数据库
 * **HaveWorkedPlatform** 和 **WantWorkPlatform** 正在使用和期待使用的平台——这里在 2018 年中是独立的开发系统
 * 
-* **Methodology** 曾经使用的编程方法 不能是学生
+* **Methodology** 曾经使用的编程方法 不能是学生。
 * VersionControl 使用的版本控制工具，不能是前开发者
 * **以下是设备满意度，从实际情况来看需要思考从怎么使用这类数据**
 * EquipmentSatisfiedMonitors 、EquipmentSatisfiedCPU、EquipmentSatisfiedRAM、EquipmentSatisfiedStorage、EquipmentSatisfiedRW
 
-1. **ProgramHobby** 爱好编程和开源项目，**对分析不起作用**——需要分析一下和 2018 年的 Hobby 之间的数据区别
+1. **ProgramHobby** 爱好编程和开源项目，**对分析不起作用**——需要分析一下和 2018 年的 Hobby 之间的数据区别。
 
-2. **Country** 居住国家
+2. **Country** 居住国家。
 
 3. University 参加学校项目，**对分析不起作用**
 
 4. **EmploymentStatus** 工作状态，用于分析开发者工作类型，全职、兼职。
 
    1. HomeRemote 在家或者远程工作频率，这个需要是工作状态是处于有雇佣状态
-   2. **CompanySize** 公司人员，这个需要是工作状态是处于有雇佣状态
+   2. **CompanySize** 公司人员，这个需要是工作状态是处于有雇佣状态。
    3. **CompanyType** 公司类型，这个需要是工作状态是处于有雇佣状态——2018 年没有该数据
    4. LearnedHiring 当前工作 信息来源，这个需要是工作状态是处于有雇佣状态
    5. InfluenceInternet
@@ -155,19 +155,19 @@ Column Name --- Survey Question --- Note (if any)
       InfluenceRecruitment
       InfluenceCommunication  影响公司的购买决策方面的内容How much influence do you have on purchasing decisions within your organization for each of the following  
 
-5. **FormalEducation** 最高学历，需要进行分析吗？
+5. **FormalEducation** 最高学历，需要进行分析吗？。
 
-6. **MajorUndergrad** 重要专业，最高学历必须在 Secondary school 之上
+6. **MajorUndergrad** 重要专业，最高学历必须在 Secondary school 之上。
 
 7. YearsProgram 包括学习阶段，编程年限，这个可以用于分析整体编程年限分布
 
 8.  YearsCodedJob 和YearsCodedJobPast ，这两个问题没有弄明白For how many years [have you coded]/[did you code] for a living? 
 
-9. **Gender** 性别
+9. **Gender** 性别。
 
-10. HighestEducationParents 父母收到的最高教育程度 
+10. HighestEducationParents 父母受到的最高教育程度 
 
-11. **Race** 人种描述 
+11. **Race** 人种描述 。
 
 12. 
 
@@ -193,9 +193,9 @@ Column Name --- Survey Question --- Note (if any)
 14. **KinshipDevelopers** 
 15. **ChallengeMyself** 
 16. **CompetePeers** 
-17. **ChangeWorld** 
+17. ChangeWorld 
 18. **以上是一种态度**——对于以上的内容需要判断一下和 2018 年区别
-19. **JobSeekingStatus** 当前找工作意愿 
+19. **JobSeekingStatus** 当前找工作意愿 。
     1. **下面是当前有意愿找工作的人员的看重选项，这里是否可以分析出找工作的依据**
     2. **AssessJobIndustry**、**AssessJobRole**、**AssessJobExp**、**AssessJobDept**、**AssessJobTech**、**AssessJobProjects**、**AssessJobCompensation**、**AssessJobOffice**、**AssessJobCommute**、**AssessJobRemote**、**AssessJobLeaders**、**AssessJobProfDevel**、**AssessJobDiversity**、**AssessJobProduct**、**AssessJobFinances**
     3. HoursPerWeek 每周花在找工作上的事件，这需要有找工作意愿的人
@@ -227,10 +227,10 @@ Column Name --- Survey Question --- Note (if any)
 
 1. PronounceGIF GIF 发音 
 2. ClickyKeys 工作环境-键盘敲击声 机械键盘敲击声
-3. **Currency** 使用货币 
+3. **Currency** 使用货币 。
 4. TabsSpaces 缩紧使用方式
 5. CousinEducation 后辈学习建议 Let’s pretend you have a distant cousin [{null} / named Bob / named Alice]. [They are/ He is / She is] 24 years old, [have/ has/ has] a college degree in a field not related to computer programming, and [have/ has/ has] been working a non-coding job for the last two years. [They want/ he wants/ she wants] your advice on how to switch to a career as a software developer. Which of the following options would you most strongly recommend to [your cousin / Bob / Alice]? Please choose no more than four options. 
-6. WorkStart 选择每天开始上班的时间 一天八小时上班制的工作起始时间
+6. **WorkStart** 选择每天开始上班的时间 一天八小时上班制的工作起始时间。
 7. AuditoryEnvironment 编程中听觉环境 Suppose you're about to start a few hours of coding and have complete control over your auditory environment (music, background noise, etc.). What would you do? 
 8. CheckInCode 代码提交频率 Over the last year, how often have you checked-in or committed code? 
 9. StackOverflowDescribes
@@ -293,6 +293,7 @@ Column Name --- Survey Question --- Note (if any)
    8. 工作选择的参考角度，薪资，工作属性等
    9. 在 2017 年的数据中有 ImportantHiring 字段，可以用于分析招聘要求
    10. 2017 年有一个 JobProfile 可以分析常用的找工作平台
+   11. MajorUndergrad 这里可以分析一下专业是否存在差异
 
 ## 5. 数据处理
 
@@ -318,3 +319,4 @@ Column Name --- Survey Question --- Note (if any)
  2018 年的调查数据更系统，用户基本信息——国家及其州区信息，用户的行业等信息；
 
 职业生涯信息——职业状态和后续规划，在 2017 年中也有当前工作满意度和工作选择，工作选择参考点
+
