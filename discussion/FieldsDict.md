@@ -369,7 +369,7 @@
    - Redis
    - SQL Server
    - SQLite
-22. DatabaseWorkedWith ：当前正在使用的数据库，2017 年的名称为 WantWorkDatabase，字段名称不一致，数据中存在不必要空格。数据值为：
+22. DatabaseWorkedWith ：当前正在使用的数据库，2017 年的名称为 HaveWorkedDatabase，字段名称不一致，数据中存在不必要空格。数据值为：
    - Amazon DynamoDB
    - Amazon RDS/Aurora
    - Amazon Redshift
