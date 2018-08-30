@@ -19,7 +19,7 @@
 | Country                | Country                                 | Country                |                                                              |                                                              |
 | Salary                 | Salary - 320                            | ConvertedSalary -P20   | （待确认一下两者是否存在差异）**2017增加salarytype**         | 17年是年薪，18年会选择薪水模式，可能需要转化                 |
 | Currency               | Currency -310                           | CurrencySymbol0 -P20   | 2                                                            |                                                              |
-| EmploymentStatus       | EmploymentStatus                        | Employment             | 2                                                            |                                                              |
+|                        |                                         |                        |                                                              |                                                              |
 | CompanySize            | CompanySize                             | CompanySize            |                                                              |                                                              |
 | DeveloperType          | DeveloperType                           | DevType                | 2                                                            |                                                              |
 | JobSatisfaction        | JobSatisfaction                         | JobSatisfaction        |                                                              |                                                              |
@@ -236,3 +236,5 @@ HypotheticalTools5	对假设工具打分_职业问答领域
   职业DevType+语言LanguageWorkedWith
 
 - 17 年的 MetricsAssess 评估指标 481
+
+- 开发者类型，可以分析做了几个类型的开发，单类型开发人员做哪些，多开发人员开发工作是否相关
