@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+data/OriginalData/
+.DS_Store
+
+test
+__pycache__
