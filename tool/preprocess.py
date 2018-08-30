@@ -12,7 +12,7 @@ def extract_data(data, columns):
 	Extract the data that is contained with columns, which can be used to
 	analysis data in the next step
 
-  	Parameters:
+  	Parameters
 		data : pandas DataFrame
 			An Original data is readed from pandas that is a raw information
 
@@ -20,7 +20,7 @@ def extract_data(data, columns):
 			Column labels to use for extracting the information data from 
 			raw data
 	
-	Result:
+	Result
 		result : pandas DataFrame
 			An information data contains the columns
 
@@ -53,14 +53,14 @@ def add_single(data, new_values:dict):
 	add new values that stores in new columns, which can be used to
 	analysis data in the next step
 
-  	Parameters:
+  	Parameters
 		data : pandas DataFrame
 			An Original data is readed from pandas that is a raw information
 
 		new_values : dict
 			column lables stores in the keys, which contains single value
 	
-	Result:
+	Result
 		result : pandas DataFrame
 			An information data contains the new fields
 
@@ -87,7 +87,7 @@ def convert_single_func(x, validate_values, value=np.nan, reg_option=False,
 	The function is used in the apply method, which can be converted the
 	invalidate value into the value
 
-	Parameters:
+	Parameters
 		x : 
 			element in the Series data or in the DataFrame data
 		validate_values : list or regex pattern
@@ -102,7 +102,7 @@ def convert_single_func(x, validate_values, value=np.nan, reg_option=False,
 			search the x by using the pattern
 		missing_option : boolean default True
 			If True, the missing value will be added in the validate values
-	Result:
+	Result
 		value or x
 	"""
 
@@ -135,7 +135,7 @@ def convert_list_funct(x, count_option=False):
 	The function is used in the apply method, which can be get the first index 
 	value about the element
 
-	Parameters:
+	Parameters
 		x : 
 			element in the Series data or in the DataFrame data. If it's list,
 			return the first index value, or return the x itself according to the
@@ -153,3 +153,38 @@ def convert_list_funct(x, count_option=False):
 			return len(x)
 		else:
 			return x[0]
+
+def remove_string_space(data, pattern, replacement, field=None, inplace=False):
+	"""Delete the redundant space in the values
+	The function is used to delete the redundant space in the values, by using 
+	specific pattern
+
+	Parameters
+		data : DataFrame or Series
+			there is space in the values, which is be delete by using the field,
+			if field is not None
+		pattern : regex
+			this is a regular expression pattern that is used to match with the
+			value
+		replacement : string
+			this is string that replace the value by the pattern
+		field : string default None
+			this is string that is a field in the data
+		inplace : boolean default False
+			if True, do operation inplace and return None. Otherwise return 
+			values
+	Returns
+		data :
+			return the dataframe
+	"""
+	if inplace:
+		result = data
+	else:
+		result = data.copy()
+
+	if isinstance(data, pd.core.series.Series):
+		result = result.str.replace(pattern, replacement)
+	elif field:
+		result[field] = result[field].str.replace(pattern, replacement)
+	else:
+		raise "data is not Series, or lack of field!"
