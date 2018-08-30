@@ -453,3 +453,10 @@
    - Windows Phone
    - WordPress
    - iOS
+
+25. Hobby：2017 年中的信息在 ProgramHobby 中，对 Yes, I program as a hobby 和 Yes, both 提取数据为 Yes，其他选项数据处理为 No
+    * Yes
+    * No
+26. OpenSource：2017 年的信息在 ProgramHobby 中，对 Yes, I contribute to oopen source projects 和 Yes, both 提取数据为 Yes， 其他选项数据处理为 No
+    * Yes
+    * No
