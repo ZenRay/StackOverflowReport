@@ -206,31 +206,7 @@
     	 Neither satisfied nor dissatisfied	:	= 5
     	 Slightly satisfied		:	<=  7
     	 Moderately satisfied	:	<= 9
-    	 Extremely satisfied	:	= 10
-
-    ```
-    2017 年数据
-    8.0     
-    7.0     
-    9.0     
-    6.0    
-    10.0   
-    5.0     
-    4.0     
-    3.0    
-    2.0      
-    0.0      
-    1.0      
-    
-    2018 年数据
-    Moderately satisfied 
-    Extremely satisfied  
-    Slightly satisfied   
-    Slightly dissatisfied   
-    Moderately dissatisfied
-    Neither satisfied nor dissatisfied
-    Extremely dissatisfied      
-    ```
+    	 Extremely satisfied	:	= 10 
 
 17. JobSeekingStatus：求职状态，2018 年的字段名称需要修改（JobSearchStatus）。字段信息如下：
 
@@ -457,6 +433,152 @@
 25. Hobby：2017 年中的信息在 ProgramHobby 中，对 Yes, I program as a hobby 和 Yes, both 提取数据为 Yes，其他选项数据处理为 No
     * Yes
     * No
+
 26. OpenSource：2017 年的信息在 ProgramHobby 中，对 Yes, I contribute to oopen source projects 和 Yes, both 提取数据为 Yes， 其他选项数据处理为 No
     * Yes
     * No
+
+27. WorkStart：2018 年没有该字段
+
+    * 9:00 AM
+    * 10:00 AM 
+    * 8:00 AM
+    * 7:00 AM
+    * 11:00 AM 
+    * 6:00 AM 
+    * Noon
+    * 2:00 PM
+    * 1:00 PM
+    * 5:00 AM  
+    * 8:00 PM 
+    * 6:00 PM
+    * 4:00 PM
+    * 10:00 PM 
+    * 3:00 PM
+    * 9:00 PM 
+    * 5:00 PM
+    * 7:00 PM
+    * 4:00 AM
+    * Midnight
+    * 11:00 PM
+    * 1:00 AM 
+    * 3:00 AM 
+    * 2:00 AM 
+
+28. UpdateCV：2017 年字段为 ResumePrompted，需要修改字段名。同时 2017 年和 2018 年字段的值差异太大需要确认信息
+
+    ```
+    2017 年
+    I was just giving it a regular update
+    A recruiter contacted me
+    Something else
+    I saw an employer's advertisement
+    I completed a major project, assignment, or contract
+    A friend told me about a job opportunity
+    I received bad news about the future of my company or depart
+    I received negative feedback on my job performance 
+    
+    2018 年
+    My job status or other personal status changed
+    A recruiter contacted me
+    I had a negative experience or interaction at work
+    A friend told me about a job opportunity
+    I saw an employer’s advertisement
+    I did not receive an expected change in compensation
+    I received bad news about the future of my company or department
+    I received negative feedback on my job performance
+    ```
+
+29. MetricAssess：2018 年没有该字段
+
+    * Benchmarked product performance,
+    * Bugs found,
+    * Commit frequency,
+    * Customer satisfaction,
+    * Hours worked,
+    * Lines of code,
+    * Manager's rating,
+    * On time/in budget,
+    * Other,
+    * Peer's rating,
+    * Release frequency,
+    * Revenue performance,
+    * Self-rating
+
+30. LastNewJob： 2017 年中字段值 Not applicable/ never 修改为 I've never had a job
+
+    * Less than a year ago 
+
+    * Between 1 and 2 years ago 
+
+    * Between 2 and 4 years ago 
+
+    * More than 4 years ago 
+    * I've never had a job
+
+31. SelfTaughtTypes：2018 年和 2017 年字段的值差别较大：
+
+    ```
+    2017 年字段值
+    Built-in help,
+    Company internal community,
+    Friends network,
+    Non-Stack online communities,
+    Official documentation,
+    Other,
+    Stack Overflow Docs,
+    Stack Overflow Q&A,
+    Textbook,
+    Trade book,
+    Tutoring/mentoring
+    
+    
+    2018 年字段值
+    A book or e-book from O’Reilly, Apress, or a similar publisher,
+     A college/university computer science or software engineering book,
+     Internal Wikis, chat rooms, or documentation set up by my company for employees,
+     Online developer communities other than Stack Overflow (ex. forums, listservs, IRC channels, etc.),
+     Pre-scheduled tutoring or mentoring sessions with a friend or colleague,
+     Questions & answers on Stack Overflow,
+     Tapping your network of friends, family, and peers versed in the technology,
+     The official documentation and/or standards for the technology,
+     The technology’s online help system
+    ```
+
+32. TimeAfterBootcamp：2017 年的字段值有差异，需要修改。最终得到的结果如下：
+
+    * Four to six months,
+    * I already had a full-time job as a developer when I began the program,
+    * I got a job as a developer before completing the program,
+    * I haven’t gotten a developer job,
+    * Immediately after graduating,
+    * Less than a month,
+    * Longer than a year,
+    * One to three months,
+    * Six months to a year
+
+33. EducationTypes：2017 年和 2018 年字段值存在差异需要确认修改
+
+    ```
+    2017 年字段值
+    Bootcamp,
+    Coding competition,
+    Hackathon,
+    Industry certification,
+    On-the-job training,
+    Online course,
+    Open source contributions,
+    Part-time/evening course,
+    Self-taught
+    
+    2018 年字段值
+    Completed an industry certification program (e.g. MCPD),
+    Contributed to open source software,
+    Participated in a full-time developer training program or bootcamp,
+    Participated in a hackathon,
+    Participated in online coding competitions (e.g. HackerRank, CodeChef, TopCoder),
+    Received on-the-job training in software development,
+    Taken a part-time in-person course in programming or software development,
+    Taken an online course in programming or software development (e.g. a MOOC),
+    Taught yourself a new language, framework, or tool without taking a formal course
+    ```
