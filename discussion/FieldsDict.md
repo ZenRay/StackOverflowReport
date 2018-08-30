@@ -240,27 +240,14 @@
 
 18. YearsCoding：编程年限，2017 年中包括了两个字段（YearsCodedJob 与 YearsCodedJobPast）说明了曾经或者过去的的编程年限。为与 2018 年的数据统一，将 2017 年的两个字段统一为一个 YearsCoding（从数据内容上来看，具有可行性—— YearsCodedJobPast 数据量少，可以统一到 YearsCodedJob 作补充数据， 以时间年限上最大的数据作为值。这样说明的是整体有多少编程年限）
 
-       *  Less than a year 
-       *  1 to 2 years 
-       *  2 to 3 years 
-       *  3 to 4 years 
-       *  4 to 5 years 
-       *  5 to 6 years 
-       *  6 to 7 years 
-       *  7 to 8 years 
-       *  8 to 9 years 
-     *  9 to 10 years
-    *  11.10 to 11 years
-    *  11 to 12 years 
-    *  12 to 13 years 
-    *  13 to 14 years 
-    *  14 to 15 years
-    *  15 to 16 years
-    *  16 to 17 years
-    *  17 to 18 years
-    *  18 to 19 years
-    *  19 to 20 years
-    *  20 or more years 
+       *  0-2 years
+       *  3-5 years
+       *  6-8 years
+       *  9-11 years
+       *  12-14 years
+       * 15-17 years
+       * 18-20 years
+       * 20 or more years
 19. LanguageDesireNextYear ：下一年中期望使用语言，在 2017 年中字段为 WantWorkLanguage，名称存在差异，此外值中存在多余的空格。字段数据值为：
    - Assembly
    - Bash/Shell
