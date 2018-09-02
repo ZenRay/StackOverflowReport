@@ -546,31 +546,31 @@
 31. SelfTaughtTypes：2018 年和 2017 年字段的值差别较大：
 
     ```
-    2017 年字段值
-    Built-in help,
-    Company internal community,
-    Friends network,
-    Non-Stack online communities,
-    Official documentation,
-    Other,
-    Stack Overflow Docs,
-    Stack Overflow Q&A,
-    Textbook,
-    Trade book,
-    Tutoring/mentoring
-    
-    
     2018 年字段值
-    A book or e-book from O’Reilly, Apress, or a similar publisher,
-     A college/university computer science or software engineering book,
-     Internal Wikis, chat rooms, or documentation set up by my company for employees,
-     Online developer communities other than Stack Overflow (ex. forums, listservs, IRC channels, etc.),
-     Pre-scheduled tutoring or mentoring sessions with a friend or colleague,
-     Questions & answers on Stack Overflow,
-     Tapping your network of friends, family, and peers versed in the technology,
-     The official documentation and/or standards for the technology,
-     The technology’s online help system
+    self_taught = {
+        'A book or e-book from O’Reilly, Apress, or a similar publisher' : "Textbook",
+        'A college/university computer science or software engineering book' : 'Trade book',
+        'Internal Wikis, chat rooms, or documentation set up by my company for employees' :'Company internal community',
+        'Online developer communities other than Stack Overflow (ex. forums, listservs, IRC channels, etc.)' : 'Non-Stack online communities',
+        'Pre-scheduled tutoring or mentoring sessions with a friend or colleague': 'Tutoring/mentoring',
+        'Questions & answers on Stack Overflow':'Stack Overflow Q&A',
+        'Tapping your network of friends, family, and peers versed in the technology' : 'Friends network',
+        'The official documentation and/or standards for the technology' : 'Official documentation',
+        'The technology’s online help system' : 'Built-in help',
+    }
     ```
+
+    * Built-in help
+    * Company internal community
+    * Friends network
+    * Non-Stack online communities
+    * Official documentation
+    * Other
+    * Stack Overflow Docs
+    * Stack Overflow Q&A
+    * Textbook
+    * Trade book
+    * Tutoring/mentoring'
 
 32. TimeAfterBootcamp：2017 年的字段值有差异，需要修改。最终得到的结果如下：
 
