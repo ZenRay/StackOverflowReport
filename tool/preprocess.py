@@ -1,5 +1,5 @@
 """Data preprocessing
-  purpose: handling the data, like dealing with the fields, add the missing 
+  purpose: handling the data, like dealing with the fields, add the missing
            fields
 """
 # load the essential packages
@@ -17,9 +17,9 @@ def extract_data(data, columns):
 			An Original data is readed from pandas that is a raw information
 
 		columns : list or tuple
-			Column labels to use for extracting the information data from 
+			Column labels to use for extracting the information data from
 			raw data
-	
+
 	Result
 		result : pandas DataFrame
 			An information data contains the columns
@@ -30,11 +30,11 @@ def extract_data(data, columns):
 	...                    columns=['a', 'b', 'c', 'd', 'e'])
 	>>> extract_data(df, ['a', 'b'])
 	    a   b
-	0   2   8 
-	1   4   2 
-	2   1   0 
-	3   5   1 
-	4   6   0  
+	0   2   8
+	1   4   2
+	2   1   0
+	3   5   1
+	4   6   0
 	"""
 	# check the columns datatype
 	if not isinstance(columns, (list, tuple)):
@@ -59,7 +59,7 @@ def add_single(data, new_values:dict):
 
 		new_values : dict
 			column lables stores in the keys, which contains single value
-	
+
 	Result
 		result : pandas DataFrame
 			An information data contains the new fields
@@ -70,7 +70,7 @@ def add_single(data, new_values:dict):
 	...                    columns=['a', 'b', 'c', 'd', 'e'])
 	>>> add_single(df, {'c':5})
 	    a   b	c
-	0   2   8	5 
+	0   2   8	5
 	1   4   2 	5
 	2   1   0 	5
 	3   5   1 	5
@@ -88,17 +88,17 @@ def convert_single_func(x, validate_values, value=np.nan, reg_option=False,
 	invalidate value into the value
 
 	Parameters
-		x : 
+		x :
 			element in the Series data or in the DataFrame data
 		validate_values : list or regex pattern
-			store the validate values that don't need to be converted. If x is 
+			store the validate values that don't need to be converted. If x is
 			in the sequece, x will be same.
 			If the validate_values is a regex pattern, search the x by using the
 			pattern
 		value : int, string, boolean, default nan
 			target value.If value is False, regex match value will be returned
 		reg_option : boolean defalt False
-			If True, validation_values must be a regex pattern.In order to 
+			If True, validation_values must be a regex pattern.In order to
 			search the x by using the pattern
 		missing_option : boolean default True
 			If True, the missing value will be added in the validate values
@@ -132,11 +132,11 @@ def convert_single_func(x, validate_values, value=np.nan, reg_option=False,
 
 def convert_list_funct(x, count_option=False):
 	"""Convert function
-	The function is used in the apply method, which can be get the first index 
+	The function is used in the apply method, which can be get the first index
 	value about the element
 
 	Parameters
-		x : 
+		x :
 			element in the Series data or in the DataFrame data. If it's list,
 			return the first index value, or return the x itself according to the
 			parameter count_option
@@ -154,9 +154,9 @@ def convert_list_funct(x, count_option=False):
 		else:
 			return x[0]
 
-def remove_string_space(data, pattern, replacement, field=None, inplace=False):
+def replace_value(data, pattern, replacement, field=None, inplace=False):
 	"""Delete the redundant space in the values
-	The function is used to delete the redundant space in the values, by using 
+	The function is used to delete the redundant space in the values, by using
 	specific pattern
 
 	Parameters
@@ -171,7 +171,7 @@ def remove_string_space(data, pattern, replacement, field=None, inplace=False):
 		field : string default None
 			this is string that is a field in the data
 		inplace : boolean default False
-			if True, do operation inplace and return None. Otherwise return 
+			if True, do operation inplace and return None. Otherwise return
 			values
 	Returns
 		data :
