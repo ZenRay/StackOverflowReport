@@ -505,6 +505,17 @@
     I received negative feedback on my job performance
     ```
 
+    * A friend told me about a job opportunity 
+    * A recruiter contacted me 
+    * I did not receive an expected change in compensation 
+    * I had a negative experience or interaction at work 
+    * I received bad news about the future of my company or department 
+    * I received negative feedback on my job performance 
+    * I saw an employer’s advertisement 
+    * I was just giving it a regular update 
+    * My job status or other personal status changed 
+    * Something else
+
 29. MetricAssess：2018 年没有该字段
 
     * Benchmarked product performance,
