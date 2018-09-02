@@ -161,20 +161,23 @@
 
     ```
     2017年 的信息：
-    Web developer                                            
-    Mobile developer                                         
-    Desktop applications developer                        
-    Other                                              
-    Embedded applications/devices developer       
-    Developer with a statistics or mathematics background 
-    Data scientist                                            
-    DevOps specialist                                      
-    Quality assurance engineer                               
-    Database administrator                                   
-    Graphics programming                                     
-    Machine learning specialist                              
-    Systems administrator                                      
-    Graphic designer  
+        'Web developer': 'Web developer',
+        'Mobile developer': 'Mobile developer',
+        'Desktop applications developer': 'Desktop or enterprise applications developer',
+        'Other': 'Other',
+        'Embedded applications/devices developer': 'Embedded applications or devices developer',
+        'Developer with a statistics or mathematics background': 'Developer with a statistics or mathematics background',
+        'Data scientist': 'Data scientist or machine learning specialist',
+        'DevOps specialist': 'DevOps specialist',
+        'Quality assurance engineer': 'QA or test developer',
+        'Database administrator': 'Database administrator',
+        'Graphics programming': 'Graphics programming',
+        'Machine learning specialist': 'Data scientist or machine learning specialist',
+        'Systems administrator': 'Systems administrator',
+        'Graphic designer': 'Designer',
+        'Systems administrator' : 'System administrator',
+        'Developer with a statistics or mathematics background': 'Educator or academic researcher',
+        'Graphics programming' : 'Game or graphics developer'
     
     2018 年信息
     Back-end developer                     
@@ -197,6 +200,31 @@
     Product manager                                  
     Database administrator                           
     ```
+
+    当前已确认信息：
+
+    * Back-end developer
+    * C-suite executive (CEO CTO etc.)
+    * Data or business analyst
+    * Data scientist or machine learning specialist
+    * Database administrator
+    * Designer
+    * Desktop or enterprise applications developer
+    * DevOps specialist
+    * Educator or academic researcher
+    * Embedded applications or devices developer
+    * Engineering manager
+    * Front-end developer
+    * Full-stack developer
+    * Game or graphics developer
+    * Marketing or sales professional
+    * Mobile developer
+    * Other
+    * Product manager
+    * QA or test developer
+    * Student
+    * System administrator
+    * Web developer
 
 16. JobSatisfaction：工作满意度，2017 年和 2018 年数据不一致，修改后保存信息：
 
@@ -224,6 +252,7 @@
        * 15-17 years
        * 18-20 years
        * 20 or more years
+
 19. LanguageDesireNextYear ：下一年中期望使用语言，在 2017 年中字段为 WantWorkLanguage，名称存在差异，此外值中存在多余的空格。字段数据值为：
    - Assembly
    - Bash/Shell
