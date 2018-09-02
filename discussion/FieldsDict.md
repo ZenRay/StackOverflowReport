@@ -584,28 +584,29 @@
     * One to three months,
     * Six months to a year
 
-33. EducationTypes：2017 年和 2018 年字段值存在差异需要确认修改
+33. EducationTypes：2017 年和 2018 年字段值存在差异需要确认修改，修改 2018 年字段值
 
     ```
-    2017 年字段值
-    Bootcamp,
-    Coding competition,
-    Hackathon,
-    Industry certification,
-    On-the-job training,
-    Online course,
-    Open source contributions,
-    Part-time/evening course,
-    Self-taught
-    
     2018 年字段值
-    Completed an industry certification program (e.g. MCPD),
-    Contributed to open source software,
-    Participated in a full-time developer training program or bootcamp,
-    Participated in a hackathon,
-    Participated in online coding competitions (e.g. HackerRank, CodeChef, TopCoder),
-    Received on-the-job training in software development,
-    Taken a part-time in-person course in programming or software development,
-    Taken an online course in programming or software development (e.g. a MOOC),
-    Taught yourself a new language, framework, or tool without taking a formal course
+    education_types = {
+        'Completed an industry certification program (e.g. MCPD)':'Industry certification',
+        'Contributed to open source software' :'Open source contributions',
+        'Participated in a full-time developer training program or bootcamp' : 'Bootcamp',
+        'Participated in a hackathon' : 'Hackathon',
+        'Participated in online coding competitions (e.g. HackerRank, CodeChef, TopCoder)' : 'Coding competition',
+        'Received on-the-job training in software development' : 'On-the-job training',
+        'Taken a part-time in-person course in programming or software development' : 'Part-time/evening course',
+        'Taken an online course in programming or software development (e.g. a MOOC)' : 'Online course',
+        'Taught yourself a new language, framework, or tool without taking a formal course' : 'Self-taught',
+    }
     ```
+
+    * Bootcamp,
+    * Coding competition,
+    * Hackathon,
+    * Industry certification,
+    * On-the-job training,
+    * Online course,
+    * Open source contributions,
+    * Part-time/evening course,
+    * Self-taught
