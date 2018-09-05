@@ -188,3 +188,48 @@ def replace_value(data, pattern, replacement, field=None, inplace=False):
 		result[field] = result[field].str.replace(pattern, replacement)
 	else:
 		raise "data is not Series, or lack of field!"
+
+def replace_string_value(element, pattern, replacement=""):
+	""" Replace the element string
+	Replace the value by using the regular expression pattern. There is duplicate
+	value in the element.
+
+	Parameters
+		element : string or Nan
+			this is a string or nan value in the data
+		pattern : regex
+			this is a regular expression pattern that is used to match with the
+			value
+		replacement : string default ""
+			this is string being used to replace the value
+	
+	Returns
+		return the string being dealed
+	"""
+
+	if pd.isnull(element):
+		return element
+	else:
+		all_groups = pattern.findall(element)
+	
+	if len(all_groups) > 0:
+		element = pattern.sub("", element)
+
+		# replace the duplicate the notation ;;
+		if element.find(";;") >= 0:
+			element = element.replace(";;", ";")
+		
+		# delete the notation ; at the ends point
+		if element.startswith(";"):
+			element = element[1:]
+		
+		if element.endswith(";"):
+			element = element[:-1]
+
+		# add the Web developer
+		if len(element) == 0:
+			return replacement
+		else:
+			return element + ";" + replacement
+	else:
+		return element
