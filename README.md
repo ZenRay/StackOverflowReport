@@ -28,10 +28,11 @@
 
    This is a directory that stores the process to access data and wrangle data
 
-   * [FileAbout2017](preprocess/FileAbout2017.ipynb) wrangle the survey data in the 2017[^2]
-   * [Overflow_2018](preprocess/Overflow_2018.ipynb) wrangle the survey data in the 2018, and analysis the data between 2017 and 2018[^1]. 
+   * [FileAbout2017](preprocess/FileAbout2017.ipynb) wrangle the survey data in the 2017. Done by [ZenRay](https://github.com/ZenRay)
+   * [Overflow_2018](preprocess/Overflow_2018.ipynb) wrangle the survey data in the 2018, and analysis the data between 2017 and 2018. Done by [AAAlvin](https://github.com/AAAlvin)
 
 ## Collaborator
 
-[^1]: [AAAlvin](https://github.com/AAAlvin)
-[^2]: [ZenRay](https://github.com/ZenRay)
+* [AAAlvin](https://github.com/AAAlvin)
+
+* [ZenRay](https://github.com/ZenRay)
