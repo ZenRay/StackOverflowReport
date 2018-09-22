@@ -2,5 +2,6 @@
 data/OriginalData/
 .DS_Store
 
-test
+*test*
+report/index.html
 __pycache__
