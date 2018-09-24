@@ -2,7 +2,7 @@
   <div class="container">
     <div class="block-wrapper row">
       <div class="col-md-3 col-sm-4" id="sidebar"></div>
-      <div class="col-md-9 col-sm-8" id="main-content">
+      <div class="col-md-9 col-sm-8">
         <div class="row">
           <div class="col-md-12 _pad-vertical-sm">
             <p class="_muted _small">

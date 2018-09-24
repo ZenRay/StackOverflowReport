@@ -50,14 +50,19 @@
             </ul>
           </div>
         </div>
+        <Content/>
       </div>
     </div>
   </div>
 </template>
 
 <script>
+import Content from './Content'
 export default {
   name: 'NavBar',
+  components: {
+    Content
+  },
   data () {
     return {
       iconbar: ['icon-bar', 'icon-bar', 'icon-bar'],
